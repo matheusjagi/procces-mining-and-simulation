@@ -1,0 +1,1407 @@
+concept:name,time:timestamp,qty_completed,qty_rejected
+Final Inspection Q.C.,1970-01-13 14:10:50.950993+00:00,24,0
+Round Grinding - Machine 3,1970-01-13 03:34:01.521781+00:00,21,0
+Grinding Rework - Machine 27,1970-01-16 10:21:53.490183+00:00,11,0
+Lapping - Machine 1,1970-01-24 07:32:34.487861+00:00,16,0
+Turning & Milling - Machine 10,1970-01-25 14:04:17.494708+00:00,19,0
+Turning & Milling - Machine 10,1970-01-27 05:24:09.527022+00:00,18,0
+Packing,1970-01-29 04:07:01.839207+00:00,17,0
+Turning Q.C.,1970-02-11 06:57:12.728794+00:00,19,0
+Round Grinding - Machine 3,1970-02-11 08:25:54.751226+00:00,20,0
+Packing,1970-02-16 12:17:12.875158+00:00,24,0
+Round Grinding - Q.C.,1970-02-20 01:17:20.258776+00:00,21,0
+Round Grinding - Q.C.,1970-02-20 02:54:00.582346+00:00,18,0
+Round Grinding - Q.C.,1970-02-26 07:55:18.333689+00:00,16,0
+Turning & Milling - Machine 5,1970-01-13 13:37:13.063164+00:00,17,0
+Flat Grinding - Machine 11,1970-01-13 23:56:09.031912+00:00,22,0
+Final Inspection Q.C.,1970-01-14 17:10:16.229221+00:00,20,0
+Final Inspection Q.C.,1970-01-19 06:19:37.798398+00:00,19,0
+Turning & Milling - Machine 10,1970-01-23 09:10:02.678589+00:00,23,0
+Turning & Milling - Machine 10,1970-01-25 02:09:19.938384+00:00,17,0
+Turning & Milling - Machine 10,1970-01-28 05:33:22.019943+00:00,22,0
+Packing,1970-01-29 20:06:21.250008+00:00,21,0
+Turning & Milling Q.C.,1970-02-10 02:18:18.217341+00:00,12,0
+Packing,1970-02-13 14:12:07.240816+00:00,21,0
+Turning & Milling Q.C.,1970-02-13 15:30:03.724201+00:00,18,0
+Final Inspection Q.C.,1970-02-15 21:20:10.268309+00:00,27,0
+Turning & Milling - Machine 6,1970-02-15 23:31:54.127383+00:00,18,0
+Nitration Q.C.,1970-02-27 13:30:14.750128+00:00,19,0
+Laser Marking - Machine 7,1970-01-14 13:43:59.488937+00:00,14,0
+Turning & Milling Q.C.,1970-01-15 22:04:55.907923+00:00,19,0
+Turning & Milling Q.C.,1970-01-16 06:18:38.972897+00:00,24,0
+Round Grinding - Machine 2,1970-01-16 12:36:02.092010+00:00,25,0
+Round Grinding - Machine 2,1970-01-16 20:04:05.133511+00:00,22,0
+Round Grinding - Machine 2,1970-01-17 02:28:06.644455+00:00,18,0
+Turning & Milling - Machine 8,1970-01-17 21:07:17.734943+00:00,21,0
+Round Grinding - Machine 3,1970-01-17 22:36:35.313649+00:00,19,0
+Lapping - Machine 1,1970-01-24 07:32:34.487861+00:00,16,0
+Lapping - Machine 1,1970-01-26 10:58:27.661884+00:00,21,0
+Packing,1970-01-28 19:56:26.487148+00:00,22,0
+Turning & Milling - Machine 6,1970-01-29 16:32:14.041125+00:00,23,0
+Final Inspection Q.C.,1970-02-02 11:14:00.876848+00:00,24,0
+Packing,1970-02-03 04:14:46.686080+00:00,21,0
+Turning & Milling - Machine 4,1970-01-14 16:49:23.764998+00:00,29,0
+Round Grinding - Machine 3,1970-01-15 05:57:44.415048+00:00,26,0
+Packing,1970-01-25 21:14:31.882116+00:00,23,0
+Lapping - Machine 1,1970-01-28 07:11:44.741912+00:00,17,0
+Turning & Milling Q.C.,1970-01-29 20:39:56.603679+00:00,20,0
+Turning & Milling Q.C.,1970-01-30 07:58:18.840111+00:00,21,0
+Turning & Milling Q.C.,1970-02-01 16:39:02.523102+00:00,21,0
+Turning & Milling Q.C.,1970-02-08 21:47:07.177722+00:00,23,0
+Turning & Milling Q.C.,1970-02-09 16:42:31.923976+00:00,15,0
+Turning & Milling Q.C.,1970-02-10 23:43:27.807503+00:00,25,0
+Turning & Milling - Machine 6,1970-01-14 21:30:58.964248+00:00,18,0
+Turning & Milling Q.C.,1970-01-18 04:51:48.623312+00:00,19,0
+Turning & Milling Q.C.,1970-01-18 16:57:55.819075+00:00,24,0
+Turn & Mill. & Screw Assem - Machine 10,1970-01-19 13:54:38.905923+00:00,20,0
+Lapping - Machine 1,1970-01-25 17:03:33.492877+00:00,25,0
+Laser Marking - Machine 7,1970-01-31 18:41:28.663371+00:00,21,0
+Turning & Milling - Machine 8,1970-02-02 03:50:17.542572+00:00,24,0
+Grinding Rework - Machine 27,1970-02-02 20:25:26.158451+00:00,22,0
+Round Grinding - Machine 3,1970-02-04 07:13:19.660298+00:00,14,0
+Turning & Milling Q.C.,1970-02-06 12:56:43.747775+00:00,22,0
+Turning & Milling Q.C.,1970-02-12 14:35:05.803588+00:00,24,0
+Turning & Milling Q.C.,1970-02-14 19:36:59.446626+00:00,22,0
+Turning & Milling Q.C.,1970-02-18 05:28:12.110852+00:00,18,0
+Change Version - Machine 22,1970-01-16 00:23:00.863083+00:00,19,0
+Change Version - Machine 22,1970-01-16 12:06:47.556059+00:00,29,0
+Change Version - Machine 22,1970-01-17 02:38:08.896125+00:00,21,0
+Change Version - Machine 22,1970-01-17 11:58:11.490130+00:00,21,0
+Change Version - Machine 22,1970-01-18 04:55:23.089352+00:00,13,0
+Change Version - Machine 22,1970-01-19 00:33:39.250403+00:00,19,0
+Change Version - Machine 22,1970-01-19 12:27:01.104695+00:00,17,0
+Change Version - Machine 22,1970-01-19 23:39:00.334547+00:00,17,0
+Change Version - Machine 22,1970-01-20 23:47:26.881461+00:00,23,0
+Change Version - Machine 22,1970-01-21 19:24:38.845650+00:00,26,0
+Lapping - Machine 1,1970-01-29 06:52:56.857697+00:00,16,0
+Lapping - Machine 1,1970-02-06 07:09:07.214096+00:00,19,0
+Laser Marking - Machine 7,1970-02-07 17:18:55.692206+00:00,14,0
+Lapping - Machine 1,1970-02-09 04:24:14.834303+00:00,17,0
+Turning & Milling - Machine 4,1970-02-09 20:23:10.731180+00:00,20,0
+Turning & Milling - Machine 4,1970-02-09 22:49:16.540953+00:00,16,0
+Turning & Milling - Machine 4,1970-02-10 17:38:12.070222+00:00,24,0
+Turning & Milling - Machine 4,1970-02-10 22:45:22.202522+00:00,26,0
+Rework Milling - Machine 28,1970-01-15 14:26:31.428571+00:00,23,0
+Final Inspection Q.C.,1970-01-15 20:53:34.905641+00:00,20,0
+Turning & Milling - Machine 6,1970-01-17 04:10:10.463997+00:00,14,0
+Laser Marking - Machine 7,1970-01-18 18:09:37.007372+00:00,13,0
+Turning - Machine 8,1970-01-20 02:31:49.407042+00:00,21,0
+Turning & Milling - Machine 6,1970-01-20 16:44:23.255435+00:00,10,0
+Turning & Milling - Machine 5,1970-01-21 21:54:13.150138+00:00,19,0
+Turning - Machine 8,1970-01-21 22:15:06.517130+00:00,22,0
+Round Grinding - Machine 3,1970-01-16 08:54:02.794987+00:00,23,0
+Grinding Rework - Machine 27,1970-01-23 03:19:50.712548+00:00,20,0
+Lapping - Machine 1,1970-02-06 01:20:24.577921+00:00,15,0
+Lapping - Machine 1,1970-02-07 20:07:17.777908+00:00,21,0
+Packing,1970-02-15 18:58:40.279164+00:00,22,0
+Turning Q.C.,1970-02-16 07:04:08.446815+00:00,21,0
+Turning & Milling - Machine 8,1970-02-16 14:25:54.865410+00:00,10,0
+Turning & Milling - Machine 5,1970-02-17 01:53:27.066850+00:00,21,0
+Turning Q.C.,1970-02-18 18:20:43.335913+00:00,20,0
+Turning & Milling - Machine 6,1970-02-19 06:08:48.513845+00:00,14,0
+Packing,1970-02-20 12:57:07.154845+00:00,20,0
+Laser Marking - Machine 7,1970-02-22 01:34:44.072588+00:00,15,0
+Packing,1970-02-22 06:11:04.680240+00:00,15,0
+Round  Q.C.,1970-02-23 00:03:25.899310+00:00,21,0
+Round Grinding - Manual,1970-02-23 07:56:17.207052+00:00,18,0
+Round Grinding - Machine 2,1970-02-24 10:16:17.338505+00:00,17,0
+Round Grinding - Machine 2,1970-02-24 10:30:11.712369+00:00,32,1
+Round Grinding - Machine 2,1970-02-24 18:25:45.240648+00:00,29,0
+Round Grinding - Machine 2,1970-02-25 01:11:25.772695+00:00,19,0
+Round Grinding - Machine 2,1970-02-26 01:34:34.260288+00:00,21,0
+Round Grinding - Machine 2,1970-02-27 02:08:57.349009+00:00,16,0
+Turning & Milling Q.C.,1970-03-01 23:16:30.778824+00:00,26,0
+Turning & Milling - Machine 4,1970-03-02 08:22:20.124342+00:00,26,0
+Turning & Milling - Machine 4,1970-03-02 09:00:42.514620+00:00,19,2
+Turning & Milling - Machine 8,1970-01-16 17:47:01.063569+00:00,17,0
+Turning & Milling Q.C.,1970-01-18 01:06:12.084952+00:00,24,0
+Turning & Milling Q.C.,1970-01-21 23:56:30.483787+00:00,25,0
+Turning & Milling Q.C.,1970-01-22 12:12:28.761600+00:00,23,0
+Final Inspection Q.C.,1970-01-22 12:33:19.436964+00:00,15,0
+Turning & Milling - Machine 6,1970-01-23 21:55:01.259359+00:00,24,0
+Final Inspection Q.C.,1970-01-24 13:58:04.889404+00:00,17,0
+Turning & Milling - Machine 5,1970-01-25 08:13:11.499647+00:00,19,0
+Turning & Milling - Machine 6,1970-01-25 16:15:38.899136+00:00,22,0
+Round Grinding - Machine 3,1970-01-26 01:31:58.878962+00:00,20,0
+Laser Marking - Machine 7,1970-01-27 01:36:16.983716+00:00,16,0
+Lapping - Machine 1,1970-01-30 00:59:30.882518+00:00,16,0
+Grinding Rework - Machine 12,1970-02-03 06:17:59.610147+00:00,19,0
+Turning & Milling - Machine 5,1970-01-16 20:03:44.934266+00:00,19,0
+Round Grinding - Machine 2,1970-01-17 02:07:07.682223+00:00,15,0
+Round Grinding - Machine 2,1970-01-17 11:41:49.537070+00:00,19,0
+Round Grinding - Machine 2,1970-01-17 18:10:05.028340+00:00,20,0
+Turning & Milling - Machine 8,1970-01-17 20:15:18.999218+00:00,16,0
+Final Inspection Q.C.,1970-01-19 07:21:30.166350+00:00,21,0
+Turning - Machine 8,1970-01-20 03:29:27.548591+00:00,22,0
+Turning & Milling - Machine 6,1970-01-20 11:34:16.504273+00:00,21,0
+Final Inspection Q.C.,1970-01-20 22:42:32.574921+00:00,15,0
+Final Inspection Q.C.,1970-01-22 07:43:50.649797+00:00,26,0
+Grinding Rework - Machine 27,1970-01-23 23:32:07.116488+00:00,26,0
+Lapping - Machine 1,1970-02-06 01:20:24.577921+00:00,21,0
+Turning & Milling - Machine 10,1970-02-06 14:17:41.195738+00:00,15,0
+Packing,1970-02-10 19:16:00.666805+00:00,19,0
+Turning & Milling - Machine 8,1970-02-10 22:21:44.011956+00:00,20,0
+Turning & Milling - Machine 6,1970-01-17 20:15:43.064019+00:00,22,0
+Turning & Milling Q.C.,1970-01-18 23:30:44.313377+00:00,19,0
+Turning & Milling - Machine 10,1970-01-21 05:51:40.721680+00:00,18,0
+Lapping - Machine 1,1970-01-25 17:36:43.075388+00:00,14,0
+Turning & Milling Q.C.,1970-02-05 17:41:49.159455+00:00,20,0
+Turning & Milling Q.C.,1970-02-08 14:18:14.723317+00:00,24,0
+Turning & Milling Q.C.,1970-02-08 16:49:33.671307+00:00,14,0
+Stress Relief,1970-02-08 16:49:33.671307+00:00,25,0
+Packing,1970-02-19 03:06:59.576163+00:00,24,0
+Packing,1970-02-20 00:17:45.494634+00:00,17,0
+Turning & Milling - Machine 8,1970-02-20 07:36:49.499538+00:00,14,0
+Turning & Milling Q.C.,1970-02-21 15:11:44.156680+00:00,20,0
+Turning & Milling Q.C.,1970-02-21 17:29:35.067739+00:00,22,0
+Turning & Milling Q.C.,1970-02-22 08:49:51.529204+00:00,21,0
+Turning & Milling - Machine 5,1970-01-17 18:48:10.926656+00:00,12,0
+Lapping - Machine 1,1970-01-24 07:32:34.487861+00:00,17,0
+Turning & Milling Q.C.,1970-02-01 07:29:13.764830+00:00,19,0
+Turning & Milling Q.C.,1970-02-02 06:53:30.994928+00:00,14,0
+Turning & Milling Q.C.,1970-02-04 12:21:54.548861+00:00,13,0
+Turning & Milling Q.C.,1970-02-05 15:52:58.225394+00:00,17,0
+Laser Marking - Machine 7,1970-01-23 03:21:14.437849+00:00,23,0
+Packing,1970-01-25 21:14:31.882116+00:00,11,0
+Lapping - Machine 1,1970-01-28 06:45:34.469300+00:00,18,0
+Turning & Milling Q.C.,1970-02-04 01:23:26.459356+00:00,18,0
+Lapping - Machine 1,1970-02-05 15:41:18.958492+00:00,15,0
+Turning & Milling - Machine 8,1970-02-05 16:57:45.610783+00:00,15,0
+Final Inspection Q.C.,1970-02-08 13:06:04.069808+00:00,22,0
+Final Inspection Q.C.,1970-02-14 21:08:36.893931+00:00,19,0
+Final Inspection Q.C.,1970-02-17 02:52:04.451974+00:00,22,0
+Final Inspection Q.C.,1970-02-17 07:29:18.593815+00:00,16,0
+Final Inspection Q.C.,1970-02-19 03:40:08.562858+00:00,27,0
+Final Inspection Q.C.,1970-02-20 12:25:56.253526+00:00,20,0
+Final Inspection Q.C.,1970-03-03 07:44:58.721769+00:00,25,0
+Final Inspection Q.C.,1970-01-19 10:42:16.428388+00:00,26,0
+Turning & Milling Q.C.,1970-01-20 05:48:43.076351+00:00,20,0
+Turning & Milling - Machine 5,1970-01-20 07:38:00.815155+00:00,19,0
+Turning & Milling Q.C.,1970-01-20 15:05:18.999633+00:00,19,0
+Turning & Milling Q.C.,1970-01-21 12:47:21.030533+00:00,26,1
+Turning & Milling Q.C.,1970-01-22 13:51:43.430139+00:00,20,0
+Turning & Milling Q.C.,1970-01-28 07:45:14.891439+00:00,17,0
+Turning & Milling Q.C.,1970-01-20 13:00:17.472264+00:00,19,0
+Lapping - Machine 1,1970-01-25 17:03:33.492877+00:00,27,0
+Turning & Milling - Machine 8,1970-01-25 23:52:00.935451+00:00,15,0
+Turning & Milling - Machine 5,1970-01-26 14:09:29.646032+00:00,20,0
+Turning & Milling Q.C.,1970-01-27 09:26:37.782625+00:00,27,0
+Round Grinding - Machine 3,1970-01-28 00:48:04.765011+00:00,21,0
+Flat Grinding - Machine 11,1970-01-29 16:41:42.919587+00:00,23,0
+Packing,1970-02-01 03:40:58.220547+00:00,23,0
+Laser Marking - Machine 7,1970-02-06 22:09:41.784291+00:00,22,0
+Turning - Machine 8,1970-02-07 10:37:14.814826+00:00,24,0
+Round Grinding - Machine 3,1970-02-08 09:44:47.702704+00:00,10,0
+Laser Marking - Machine 7,1970-02-12 16:01:06.311418+00:00,19,0
+Turning & Milling Q.C.,1970-02-14 20:36:42.794426+00:00,19,0
+Laser Marking - Machine 7,1970-02-15 02:16:08.961243+00:00,19,0
+Flat Grinding - Machine 11,1970-02-22 20:53:31.842371+00:00,15,0
+Turning & Milling Q.C.,1970-02-25 05:54:24.771976+00:00,22,0
+Final Inspection Q.C.,1970-03-01 09:50:25.103344+00:00,14,0
+Final Inspection Q.C.,1970-03-05 15:08:15.399540+00:00,19,0
+Flat Grinding - Machine 11,1970-03-06 23:52:55.777977+00:00,25,0
+Turning Q.C.,1970-03-07 14:56:43.538655+00:00,12,0
+Lapping - Machine 1,1970-03-11 00:03:21.528810+00:00,15,0
+Turning & Milling Q.C.,1970-01-24 04:35:43.542216+00:00,21,0
+Final Inspection Q.C.,1970-01-27 23:41:34.916587+00:00,19,0
+Round Grinding - Machine 3,1970-01-28 05:53:23.098164+00:00,24,0
+Final Inspection Q.C.,1970-01-28 21:27:52.597789+00:00,22,0
+Final Inspection Q.C.,1970-01-29 09:38:57.974004+00:00,19,0
+Final Inspection Q.C.,1970-01-30 22:26:45.402867+00:00,13,0
+Flat Grinding - Machine 11,1970-01-31 09:59:14.784938+00:00,19,0
+Turning & Milling Q.C.,1970-02-01 08:08:32.742379+00:00,14,0
+Laser Marking - Machine 7,1970-02-02 13:38:37.905381+00:00,27,0
+Flat Grinding - Machine 11,1970-02-03 14:22:51.235305+00:00,23,0
+Turning Q.C.,1970-02-11 06:57:12.728794+00:00,19,0
+Turn & Mill. & Screw Assem - Machine 10,1970-02-14 10:47:59.638226+00:00,14,0
+Turning & Milling - Machine 6,1970-02-14 18:31:52.750526+00:00,16,0
+Turning & Milling Q.C.,1970-02-15 12:52:02.358683+00:00,19,0
+Turning & Milling Q.C.,1970-02-16 12:30:52.510232+00:00,24,0
+Lapping - Machine 1,1970-02-22 11:57:59.739713+00:00,22,0
+Turning & Milling - Machine 10,1970-02-24 14:50:44.951459+00:00,21,0
+Turning & Milling - Machine 10,1970-02-27 02:00:36.290791+00:00,20,0
+Turning & Milling - Machine 10,1970-03-03 11:01:27.882577+00:00,20,0
+Turning & Milling - Machine 10,1970-03-04 04:08:47.876107+00:00,20,0
+Turning & Milling - Machine 10,1970-03-05 00:41:57.798908+00:00,25,0
+Turning & Milling - Machine 10,1970-03-06 21:16:29.470154+00:00,25,0
+Laser Marking - Machine 7,1970-03-08 04:04:37.154574+00:00,13,0
+Turning & Milling - Machine 10,1970-03-08 08:24:16.313197+00:00,23,0
+Turning & Milling - Machine 10,1970-03-08 16:41:52.204467+00:00,26,0
+Turning & Milling Q.C.,1970-03-08 21:29:57.144989+00:00,19,0
+Packing,1970-03-11 11:45:11.086308+00:00,22,0
+Turning & Milling Q.C.,1970-03-18 23:43:02.323673+00:00,12,0
+Grinding Rework - Machine 12,1970-03-21 00:55:25.335737+00:00,24,0
+Final Inspection Q.C.,1970-03-21 20:23:03.588806+00:00,23,1
+Turning - Machine 8,1970-03-22 13:58:08.400223+00:00,19,0
+Final Inspection Q.C.,1970-03-25 04:51:15.759193+00:00,14,0
+Final Inspection Q.C.,1970-04-02 05:33:52.506255+00:00,12,0
+Final Inspection Q.C.,1970-04-04 06:46:39.205887+00:00,19,0
+Turning & Milling - Machine 5,1970-04-05 00:15:15.943484+00:00,21,0
+Final Inspection Q.C.,1970-04-05 00:21:55.192031+00:00,23,0
+Round Grinding - Machine 3,1970-04-05 04:12:06.207749+00:00,27,0
+Turning & Milling Q.C.,1970-04-07 12:03:34.299673+00:00,11,0
+Packing,1970-04-09 22:10:08.937981+00:00,22,0
+Packing,1970-04-16 04:49:05.284922+00:00,17,0
+Lapping - Machine 1,1970-04-16 14:58:04.880612+00:00,22,0
+Turn & Mill. & Screw Assem - Machine 10,1970-04-17 21:05:41.661508+00:00,25,0
+Turning & Milling Q.C.,1970-04-23 09:45:17.858482+00:00,11,0
+Turn & Mill. & Screw Assem - Machine 10,1970-01-21 20:56:15.178722+00:00,14,0
+Final Inspection Q.C.,1970-01-21 22:54:41.306560+00:00,16,0
+Round Grinding - Machine 3,1970-01-22 15:21:24.940808+00:00,17,0
+Grinding Rework - Machine 27,1970-01-23 05:55:58.473940+00:00,16,0
+Turning & Milling Q.C.,1970-01-30 20:39:59.871640+00:00,16,0
+Turning & Milling - Machine 10,1970-01-31 23:20:49.219241+00:00,27,0
+Turning & Milling Q.C.,1970-02-03 03:10:06.421718+00:00,25,0
+Lapping - Machine 1,1970-02-07 13:07:25.326712+00:00,16,0
+Turning & Milling Q.C.,1970-02-09 17:35:34.442144+00:00,19,0
+Packing,1970-02-10 17:00:44.511699+00:00,22,0
+Fix - Machine 15,1970-03-03 20:43:37.737644+00:00,17,0
+Turning & Milling Q.C.,1970-03-05 17:07:48.286257+00:00,18,0
+Fix - Machine 15,1970-03-13 18:13:00.253861+00:00,23,1
+Turning & Milling Q.C.,1970-03-15 11:34:02.817707+00:00,17,0
+Turning & Milling Q.C.,1970-03-16 00:03:11.152768+00:00,11,0
+Turning & Milling Q.C.,1970-03-16 03:53:59.000499+00:00,9,0
+Turning & Milling Q.C.,1970-03-16 10:12:52.514013+00:00,26,0
+Round Grinding - Q.C.,1970-03-24 12:43:35.212955+00:00,17,0
+Round Grinding - Q.C.,1970-03-26 15:59:50.031303+00:00,19,0
+Turning & Milling Q.C.,1970-03-27 06:03:30.719426+00:00,19,0
+Round Grinding - Q.C.,1970-03-30 14:49:57.845500+00:00,17,0
+Round Grinding - Q.C.,1970-04-04 15:45:03.943848+00:00,13,0
+Turning & Milling Q.C.,1970-01-26 19:02:27.312323+00:00,17,0
+Round Grinding - Machine 3,1970-01-27 15:01:45.402365+00:00,19,0
+Round Grinding - Manual,1970-01-28 02:13:41.296353+00:00,23,0
+Round Grinding - Machine 2,1970-01-28 02:39:41.692369+00:00,21,0
+Round Grinding - Machine 2,1970-01-28 04:07:02.845030+00:00,17,0
+Final Inspection Q.C.,1970-02-01 00:25:09.122396+00:00,15,0
+Turning & Milling Q.C.,1970-01-20 14:00:18.309023+00:00,28,0
+Turning & Milling Q.C.,1970-01-25 09:11:30.251415+00:00,13,0
+Final Inspection Q.C.,1970-01-25 23:00:36.081890+00:00,14,0
+Final Inspection Q.C.,1970-01-30 12:35:11.497182+00:00,20,0
+Turning & Milling - Machine 6,1970-01-30 16:33:50.794676+00:00,21,0
+Grinding Rework - Machine 27,1970-01-31 05:15:48.160610+00:00,21,0
+Lapping - Machine 1,1970-02-02 12:32:22.253655+00:00,27,0
+Turning & Milling - Machine 10,1970-02-04 16:07:44.488994+00:00,24,0
+Turning & Milling Q.C.,1970-01-27 10:56:20.430572+00:00,14,0
+Turning & Milling Q.C.,1970-02-02 03:52:36.148180+00:00,14,0
+Turning & Milling Q.C.,1970-02-04 23:54:40.759692+00:00,16,0
+Turning & Milling Q.C.,1970-02-05 20:19:13.313683+00:00,25,0
+Round Grinding - Q.C.,1970-02-10 17:04:46.886785+00:00,19,0
+Round Grinding - Q.C.,1970-02-15 03:37:05.830724+00:00,21,0
+Round Grinding - Q.C.,1970-02-17 22:39:13.075225+00:00,23,0
+Round Grinding - Q.C.,1970-02-18 00:10:32.482967+00:00,19,0
+Round Grinding - Q.C.,1970-02-24 01:04:19.315665+00:00,19,0
+Round Grinding - Q.C.,1970-02-25 17:42:13.025504+00:00,26,0
+Turning & Milling Q.C.,1970-01-24 05:02:42.489890+00:00,17,0
+Turning & Milling - Machine 5,1970-01-24 09:22:31.067940+00:00,27,0
+Turn & Mill. & Screw Assem - Machine 10,1970-01-24 10:31:21.109145+00:00,18,0
+Turning & Milling - Machine 5,1970-01-24 16:53:25.644913+00:00,13,0
+Turning & Milling - Machine 6,1970-01-25 13:58:23.792935+00:00,24,0
+Turning & Milling - Machine 5,1970-01-22 16:12:06.057180+00:00,23,0
+Turning - Machine 8,1970-01-22 19:09:46.396094+00:00,12,0
+Turning & Milling Q.C.,1970-01-24 17:51:38.715464+00:00,19,0
+Grinding Rework - Machine 27,1970-01-25 20:17:34.836464+00:00,21,0
+Turning & Milling - Machine 9,1970-01-26 00:10:04.557276+00:00,23,0
+Final Inspection Q.C.,1970-01-30 19:44:24.351647+00:00,17,0
+Turning & Milling - Machine 9,1970-01-31 04:18:42.774819+00:00,20,0
+Turning & Milling - Machine 9,1970-01-31 09:20:19.293071+00:00,19,0
+Turning & Milling - Machine 9,1970-01-31 11:37:08.364959+00:00,18,0
+Packing,1970-02-04 10:27:53.621901+00:00,13,0
+Turning & Milling - Machine 5,1970-02-04 13:16:50.079500+00:00,16,0
+Round Grinding - Machine 3,1970-02-05 04:50:34.289883+00:00,27,0
+Lapping - Machine 1,1970-02-11 09:40:53.058740+00:00,18,0
+Packing,1970-02-14 15:59:13.813461+00:00,18,0
+Packing,1970-02-17 04:12:13.720603+00:00,23,0
+Packing,1970-02-18 08:54:16.427334+00:00,25,0
+Round Grinding - Manual,1970-02-19 02:24:42.790993+00:00,15,0
+Round Grinding - Machine 2,1970-02-19 13:24:30.989600+00:00,24,0
+Round Grinding - Machine 2,1970-02-22 12:47:01.172081+00:00,17,0
+Round Grinding - Machine 2,1970-02-22 16:59:31.119981+00:00,16,0
+Round Grinding - Machine 2,1970-02-23 11:18:41.729248+00:00,17,0
+Round Grinding - Machine 3,1970-02-23 23:48:24.107841+00:00,14,0
+Flat Grinding - Machine 11,1970-02-24 06:09:24.642693+00:00,15,0
+Turning & Milling - Machine 5,1970-02-24 15:33:38.221799+00:00,15,0
+Turning & Milling - Machine 6,1970-02-24 17:26:09.697624+00:00,22,0
+Round Grinding - Manual,1970-02-25 03:01:08.497568+00:00,15,0
+Turning Q.C.,1970-03-02 16:26:03.732899+00:00,18,0
+Turning Q.C.,1970-03-05 01:10:53.997671+00:00,25,0
+Round Grinding - Machine 3,1970-03-05 12:56:21.609897+00:00,20,0
+Lapping - Machine 1,1970-03-13 14:15:11.172531+00:00,24,0
+Lapping - Machine 1,1970-03-20 09:08:26.063681+00:00,21,0
+Turning Q.C.,1970-03-20 16:49:12.394490+00:00,19,0
+Turning & Milling - Machine 5,1970-03-20 18:02:48.485652+00:00,17,0
+Round Grinding - Manual,1970-03-21 10:59:49.538646+00:00,23,0
+Round Grinding - Machine 2,1970-03-21 13:37:10.070505+00:00,23,0
+Round Grinding - Machine 2,1970-03-22 00:26:32.519401+00:00,15,0
+Turn & Mill. & Screw Assem - Machine 10,1970-01-24 19:16:44.204042+00:00,18,0
+Laser Marking - Machine 7,1970-01-31 17:04:36.719823+00:00,16,0
+Turning & Milling - Machine 8,1970-01-31 17:35:32.326397+00:00,11,0
+Turning Q.C.,1970-01-24 12:30:24.813532+00:00,14,0
+Turning & Milling - Machine 8,1970-01-24 18:14:42.562707+00:00,16,0
+Grinding Rework - Machine 12,1970-02-02 07:18:34.729514+00:00,21,0
+Round Grinding - Manual,1970-02-03 04:29:17.305881+00:00,21,0
+Turning - Machine 8,1970-02-03 09:47:16.904327+00:00,19,0
+Turning & Milling - Machine 6,1970-02-03 21:35:17.723416+00:00,18,0
+Turning & Milling Q.C.,1970-02-04 06:44:22.734596+00:00,25,0
+Turning & Milling - Machine 6,1970-02-04 10:56:14.179126+00:00,24,0
+Laser Marking - Machine 7,1970-02-04 23:06:25.912382+00:00,23,0
+Grinding Rework - Machine 27,1970-02-05 23:35:44.956803+00:00,25,0
+Lapping - Machine 1,1970-02-11 09:03:31.961141+00:00,25,0
+Turning - Machine 8,1970-01-23 22:21:00.979868+00:00,16,0
+Final Inspection Q.C.,1970-01-26 09:22:33.513283+00:00,14,0
+Turning & Milling Q.C.,1970-01-27 23:52:48.926848+00:00,20,0
+Final Inspection Q.C.,1970-02-02 09:53:38.415496+00:00,18,0
+Turning & Milling Q.C.,1970-02-05 05:11:01.857848+00:00,14,1
+Turning & Milling Q.C.,1970-02-08 04:49:26.277178+00:00,15,0
+Turning & Milling - Machine 6,1970-02-08 11:18:02.592754+00:00,28,0
+Final Inspection Q.C.,1970-02-09 02:33:18.180032+00:00,16,0
+Final Inspection Q.C.,1970-02-19 05:50:13.496269+00:00,19,0
+Round Grinding - Manual,1970-02-19 21:26:44.609106+00:00,15,0
+Round Grinding - Machine 2,1970-02-19 21:48:50.272274+00:00,24,0
+Round Grinding - Machine 2,1970-02-20 02:36:35.943623+00:00,22,0
+Round Grinding - Machine 2,1970-02-21 05:40:17.233772+00:00,24,0
+Round Grinding - Machine 2,1970-02-22 12:35:24.151097+00:00,24,0
+Turning & Milling - Machine 6,1970-02-23 03:50:53.589312+00:00,17,0
+Final Inspection Q.C.,1970-02-27 20:56:51.943016+00:00,28,0
+Turning & Milling - Machine 8,1970-02-28 09:15:41.424192+00:00,12,0
+Turning - Machine 8,1970-02-28 10:36:05.893081+00:00,25,0
+Round Grinding - Machine 3,1970-03-01 00:38:09.568287+00:00,13,0
+Lapping - Machine 1,1970-03-02 04:59:22.463968+00:00,32,0
+Lapping - Machine 1,1970-03-03 01:20:42.698115+00:00,27,0
+Laser Marking - Machine 7,1970-03-05 20:39:52.427245+00:00,26,0
+Final Inspection Q.C.,1970-03-10 15:24:19.865451+00:00,21,0
+Final Inspection Q.C.,1970-03-13 04:38:04.796726+00:00,21,0
+Round Grinding - Machine 3,1970-03-13 17:31:37.909082+00:00,12,0
+Final Inspection Q.C.,1970-03-16 04:44:51.197866+00:00,18,0
+Laser Marking - Machine 7,1970-03-16 09:42:14.260326+00:00,15,0
+Turning & Milling - Machine 5,1970-01-24 01:03:23.810089+00:00,24,0
+Final Inspection Q.C.,1970-01-24 07:04:17.662013+00:00,18,0
+Final Inspection Q.C.,1970-01-26 12:44:54.080576+00:00,16,0
+Round Grinding - Machine 2,1970-01-26 19:21:45.241774+00:00,21,0
+Turning & Milling Q.C.,1970-01-27 21:54:44.271521+00:00,22,0
+Turning Q.C.,1970-02-02 23:43:57.932509+00:00,25,0
+Final Inspection Q.C.,1970-02-05 18:15:35.436136+00:00,12,0
+Final Inspection Q.C.,1970-02-07 14:46:55.422498+00:00,23,0
+Final Inspection Q.C.,1970-02-12 18:34:30.115835+00:00,18,0
+Turning - Machine 8,1970-02-12 21:52:04.401150+00:00,25,0
+Lapping - Machine 1,1970-02-13 09:49:41.240201+00:00,23,0
+Packing,1970-02-16 03:41:15.820983+00:00,14,0
+Round Grinding - Machine 3,1970-02-17 12:30:40.883671+00:00,25,0
+Turning & Milling - Machine 9,1970-02-17 23:44:51.636209+00:00,19,0
+Turning - Machine 9,1970-02-19 00:59:16.687651+00:00,19,0
+Turning - Machine 9,1970-02-19 03:36:09.509276+00:00,18,0
+Turning & Milling - Machine 9,1970-02-19 22:47:36.748872+00:00,18,0
+Turning - Machine 9,1970-02-20 02:36:15.334194+00:00,21,0
+Turning & Milling - Machine 9,1970-02-20 02:45:48.167821+00:00,21,0
+Turning - Machine 9,1970-02-21 20:22:54.365095+00:00,20,0
+Turning & Milling - Machine 9,1970-02-23 18:08:23.958523+00:00,10,0
+Turning & Milling - Machine 9,1970-02-24 15:09:55.860060+00:00,24,0
+Turning - Machine 9,1970-02-25 05:25:43.269240+00:00,21,0
+Turning - Machine 9,1970-02-26 15:27:59.446102+00:00,22,0
+Turning & Milling - Machine 9,1970-02-27 08:23:05.765721+00:00,20,0
+Turning - Machine 9,1970-03-01 17:37:24.349991+00:00,10,0
+Packing,1970-03-05 13:37:56.411033+00:00,20,0
+Packing,1970-03-09 01:42:32.022912+00:00,21,0
+Turning Q.C.,1970-02-02 23:43:57.932509+00:00,24,0
+Turning & Milling - Machine 5,1970-02-03 04:22:31.937611+00:00,20,0
+Turning & Milling - Machine 5,1970-02-03 16:46:54.090501+00:00,27,0
+Turning & Milling Q.C.,1970-01-29 02:56:22.277669+00:00,24,0
+Turning & Milling - Machine 5,1970-01-29 03:56:42.979976+00:00,26,0
+Laser Marking - Machine 7,1970-01-31 21:36:28.150704+00:00,19,0
+Turning Q.C.,1970-02-11 06:57:12.728794+00:00,16,0
+Turning & Milling Q.C.,1970-02-11 08:46:33.469993+00:00,22,1
+Turning & Milling - Machine 6,1970-02-13 06:05:01.966783+00:00,24,0
+Final Inspection Q.C.,1970-02-17 12:51:32.607161+00:00,24,0
+Grinding Rework - Machine 27,1970-02-20 09:38:20.180116+00:00,14,0
+Final Inspection Q.C.,1970-02-22 12:21:16.345974+00:00,17,0
+Turning & Milling Q.C.,1970-02-23 23:48:17.288014+00:00,20,0
+Lapping - Machine 1,1970-02-27 03:05:31.996671+00:00,23,0
+Round Grinding - Machine 3,1970-01-26 00:45:09.024808+00:00,21,0
+Final Inspection Q.C.,1970-01-31 12:32:20.433944+00:00,20,0
+Turning & Milling Q.C.,1970-02-01 22:57:59.866202+00:00,26,0
+Turning & Milling Q.C.,1970-02-06 06:15:32.688222+00:00,19,0
+Turning & Milling - Machine 5,1970-02-06 08:13:41.942618+00:00,25,0
+Turning & Milling Q.C.,1970-02-08 22:46:28.249581+00:00,29,0
+Turn & Mill. & Screw Assem - Machine 10,1970-01-29 17:35:16.454231+00:00,17,0
+Laser Marking - Machine 7,1970-02-03 06:45:39.858344+00:00,25,0
+Turning & Milling - Machine 9,1970-02-03 09:00:07.971345+00:00,18,0
+Turning & Milling Q.C.,1970-02-04 11:20:36.464852+00:00,25,0
+Packing,1970-02-13 21:40:07.227511+00:00,16,0
+Turning & Milling - Machine 6,1970-02-13 23:20:56.725385+00:00,24,0
+Turning & Milling Q.C.,1970-02-14 19:34:10.291215+00:00,24,0
+Turning & Milling - Machine 5,1970-02-14 23:01:49.295930+00:00,19,0
+Round Grinding - Machine 3,1970-02-15 13:44:13.311819+00:00,19,0
+Turning & Milling Q.C.,1970-02-20 18:10:15.114497+00:00,14,0
+Turning & Milling - Machine 6,1970-02-21 00:02:15.363483+00:00,22,0
+Round Grinding - Machine 3,1970-02-21 03:59:25.544614+00:00,14,0
+Turning & Milling Q.C.,1970-02-21 16:43:32.761695+00:00,23,0
+Round Grinding - Manual,1970-02-21 19:01:17.699638+00:00,24,0
+Round Grinding - Machine 2,1970-02-21 19:07:58.370371+00:00,21,0
+Round Grinding - Machine 2,1970-02-22 02:28:03.003397+00:00,21,0
+Round Grinding - Machine 2,1970-02-22 07:31:28.867209+00:00,20,0
+Round Grinding - Machine 2,1970-02-22 15:12:59.243795+00:00,18,0
+Turning & Milling - Machine 5,1970-02-22 16:06:24.143130+00:00,23,0
+Turning & Milling - Machine 5,1970-02-23 03:43:33.048096+00:00,23,0
+Final Inspection Q.C.,1970-02-25 22:05:38.735260+00:00,23,0
+Grinding Rework - Machine 27,1970-03-01 09:35:21.003783+00:00,18,0
+Final Inspection Q.C.,1970-03-01 17:37:06.181853+00:00,16,0
+Lapping - Machine 1,1970-03-03 08:13:11.522131+00:00,25,0
+Packing,1970-03-09 18:37:16.786723+00:00,21,0
+Lapping - Machine 1,1970-03-10 10:37:24.551501+00:00,21,0
+Lapping - Machine 1,1970-03-13 01:26:08.225046+00:00,25,0
+Flat Grinding - Machine 11,1970-03-15 16:33:29.371834+00:00,21,0
+Round Grinding - Machine 3,1970-03-16 17:16:04.179416+00:00,26,0
+Round Grinding - Machine 3,1970-01-26 19:29:29.024058+00:00,21,0
+Turning & Milling Q.C.,1970-01-31 11:22:14.432415+00:00,17,0
+Packing,1970-02-05 17:36:01.105661+00:00,16,0
+Turning & Milling Q.C.,1970-02-10 00:18:59.568328+00:00,13,0
+Final Inspection Q.C.,1970-02-11 09:13:34.626673+00:00,15,0
+Round Grinding - Machine 3,1970-02-11 16:40:32.310288+00:00,24,0
+Final Inspection Q.C.,1970-02-12 13:49:31.680579+00:00,20,0
+Final Inspection Q.C.,1970-02-15 23:06:15.709587+00:00,9,0
+Round Grinding - Machine 3,1970-02-16 17:25:31.356939+00:00,20,0
+Flat Grinding - Machine 11,1970-02-17 23:39:53.985600+00:00,27,0
+Final Inspection Q.C.,1970-02-22 11:28:29.822897+00:00,15,0
+Turning & Milling - Machine 8,1970-02-22 15:23:14.953268+00:00,25,0
+Turning & Milling - Machine 5,1970-02-22 17:57:37.849926+00:00,22,0
+Round Grinding - Manual,1970-02-23 17:46:05.118202+00:00,23,0
+Turning & Milling - Machine 5,1970-01-27 01:32:15.342137+00:00,24,0
+Laser Marking - Machine 7,1970-02-04 11:33:01.248966+00:00,24,0
+Grinding Rework - Machine 27,1970-02-09 12:20:05.664085+00:00,24,0
+Turning & Milling Q.C.,1970-02-13 00:00:51.227584+00:00,16,0
+Packing,1970-02-14 13:18:19.159663+00:00,19,0
+Lapping - Machine 1,1970-02-18 15:43:36.958312+00:00,20,0
+Turning & Milling - Machine 8,1970-02-19 06:38:41.988867+00:00,11,0
+Turning & Milling - Machine 5,1970-02-19 11:16:52.683376+00:00,18,0
+Turning - Machine 8,1970-02-19 12:52:19.531542+00:00,28,0
+Round Grinding - Machine 3,1970-02-19 19:04:34.471643+00:00,27,0
+Lapping - Machine 1,1970-02-20 20:58:09.535306+00:00,23,0
+Packing,1970-02-23 18:39:13.309463+00:00,19,0
+Laser Marking - Machine 7,1970-02-24 11:53:34.910816+00:00,23,0
+Packing,1970-02-24 18:24:46.665946+00:00,20,0
+Turning & Milling - Machine 6,1970-01-28 00:56:34.268388+00:00,24,0
+Final Inspection Q.C.,1970-01-29 04:04:51.973206+00:00,20,0
+Turning & Milling Q.C.,1970-02-02 21:29:31.466703+00:00,25,0
+Turning & Milling Q.C.,1970-02-03 19:34:05.737515+00:00,15,0
+Turning & Milling Q.C.,1970-02-05 10:34:47.584542+00:00,22,0
+Turning & Milling Q.C.,1970-02-06 13:31:17.986887+00:00,16,0
+Turning & Milling Q.C.,1970-02-10 07:32:49.124458+00:00,22,0
+Turning & Milling - Machine 4,1970-02-10 20:56:51.206197+00:00,16,0
+Turning & Milling - Machine 4,1970-02-11 02:05:32.388684+00:00,29,0
+Turning & Milling - Machine 4,1970-02-11 05:06:10.413483+00:00,13,0
+Turning & Milling - Machine 4,1970-02-11 19:18:18.022935+00:00,25,0
+Turning & Milling - Machine 4,1970-02-12 01:48:27.121487+00:00,19,0
+Turning & Milling - Machine 4,1970-02-12 02:23:15.053648+00:00,20,0
+Turning & Milling - Machine 4,1970-02-12 15:22:57.552981+00:00,20,0
+Turning & Milling - Machine 4,1970-02-12 19:52:23.559223+00:00,13,0
+Turning & Milling - Machine 4,1970-02-13 03:39:22.714448+00:00,19,0
+Turning & Milling - Machine 4,1970-02-14 03:28:59.576717+00:00,14,0
+Turning & Milling - Machine 5,1970-01-28 00:59:00.265067+00:00,21,0
+Turning & Milling - Machine 5,1970-01-29 13:22:08.289904+00:00,24,0
+Turning & Milling Q.C.,1970-01-30 04:42:16.429361+00:00,22,0
+Turning & Milling - Machine 5,1970-01-29 21:52:07.605813+00:00,19,0
+Turning & Milling - Machine 6,1970-01-30 20:55:05.499880+00:00,21,0
+Turning & Milling Q.C.,1970-02-02 14:47:22.449471+00:00,16,0
+Turning & Milling - Machine 5,1970-02-02 21:31:12.259038+00:00,24,0
+Turning & Milling - Machine 6,1970-02-03 18:21:04.129726+00:00,22,0
+Turning & Milling Q.C.,1970-02-06 06:36:59.513201+00:00,27,0
+Turning & Milling Q.C.,1970-02-14 03:08:20.992024+00:00,19,0
+Final Inspection Q.C.,1970-02-03 19:30:21.641035+00:00,20,0
+Final Inspection Q.C.,1970-02-04 00:45:34.171829+00:00,27,0
+Laser Marking - Machine 7,1970-02-05 16:17:38.671788+00:00,22,0
+Grinding Rework - Machine 27,1970-02-09 01:52:51.313103+00:00,16,0
+Lapping - Machine 1,1970-02-15 06:03:51.329730+00:00,23,0
+Milling - Machine 14,1970-02-16 03:54:06.818144+00:00,25,0
+Milling - Machine 14,1970-02-16 10:07:38.248281+00:00,27,0
+Milling - Machine 14,1970-02-16 14:31:31.524099+00:00,20,0
+Milling - Machine 14,1970-02-16 18:32:14.793057+00:00,18,0
+Milling - Machine 14,1970-02-17 12:42:53.360990+00:00,16,0
+Milling - Machine 14,1970-02-17 21:06:11.039952+00:00,14,0
+Turning & Milling - Machine 6,1970-02-18 16:27:53.827885+00:00,15,0
+Lapping - Machine 1,1970-02-22 09:37:06.799427+00:00,20,0
+Packing,1970-02-26 17:20:04.595443+00:00,22,0
+Packing,1970-03-02 04:05:12.605086+00:00,17,0
+Packing,1970-03-03 02:44:20.891165+00:00,16,0
+Round Grinding - Machine 2,1970-03-04 23:26:37.979487+00:00,20,0
+Round Grinding - Machine 2,1970-03-05 11:01:39.391956+00:00,18,0
+Round Grinding - Machine 3,1970-03-05 20:41:24.507382+00:00,19,0
+Lapping - Machine 1,1970-03-07 22:55:08.784526+00:00,14,0
+Packing,1970-03-09 12:13:13.079331+00:00,16,0
+Laser Marking - Machine 7,1970-03-11 10:18:39.266915+00:00,12,0
+Turning & Milling Q.C.,1970-02-02 20:03:30.780032+00:00,23,0
+Final Inspection Q.C.,1970-02-03 00:53:34.540384+00:00,22,0
+Turning & Milling - Machine 6,1970-02-03 01:30:11.172074+00:00,22,0
+Lapping - Machine 1,1970-02-05 09:36:24.212324+00:00,23,0
+Turning & Milling - Machine 5,1970-01-30 01:21:48.229244+00:00,27,0
+Flat Grinding - Machine 11,1970-01-31 20:06:37.293198+00:00,24,0
+Turning & Milling Q.C.,1970-02-11 10:58:23.971972+00:00,21,0
+Turning & Milling Q.C.,1970-02-11 13:12:55.290991+00:00,21,0
+Turning & Milling Q.C.,1970-02-12 05:50:02.487710+00:00,23,0
+Turning & Milling Q.C.,1970-02-16 17:04:30.058514+00:00,17,0
+Turning & Milling Q.C.,1970-02-17 12:57:33.468909+00:00,23,0
+Turning & Milling Q.C.,1970-02-20 10:31:38.434690+00:00,16,0
+Turning & Milling Q.C.,1970-02-22 07:04:58.985649+00:00,17,0
+Wire Cut - Machine 13,1970-02-03 05:07:42.616255+00:00,19,0
+Wire Cut - Machine 13,1970-02-05 08:45:56.714377+00:00,17,0
+Wire Cut - Machine 13,1970-02-08 11:56:10.905299+00:00,12,0
+Turning & Milling - Machine 5,1970-02-08 19:00:00.974605+00:00,18,0
+Round Grinding - Machine 3,1970-02-10 10:33:03.822957+00:00,16,0
+Turning & Milling - Machine 6,1970-02-10 13:08:05.108934+00:00,22,0
+Turning & Milling - Machine 8,1970-02-10 19:17:50.030237+00:00,16,0
+Turning & Milling Q.C.,1970-02-14 19:28:25.524866+00:00,25,0
+Turning & Milling Q.C.,1970-02-22 02:26:03.987586+00:00,22,0
+Turning & Milling Q.C.,1970-02-24 20:37:05.333403+00:00,18,0
+Turning & Milling Q.C.,1970-02-26 16:03:32.331450+00:00,29,0
+Turning & Milling Q.C.,1970-02-27 07:07:41.102148+00:00,19,0
+Turn & Mill. & Screw Assem - Machine 10,1970-01-30 15:45:49.656690+00:00,21,0
+Final Inspection Q.C.,1970-01-30 16:17:01.857651+00:00,24,0
+Grinding Rework - Machine 27,1970-02-01 07:22:23.968603+00:00,19,0
+Turning & Milling Q.C.,1970-02-02 03:54:40.597828+00:00,20,0
+Turning & Milling Q.C.,1970-02-03 05:20:39.125064+00:00,15,0
+Turning & Milling Q.C.,1970-02-02 03:10:56.055535+00:00,21,0
+Final Inspection Q.C.,1970-02-02 16:47:16.622873+00:00,18,0
+Final Inspection Q.C.,1970-02-04 02:58:00.160859+00:00,19,0
+Lapping - Machine 1,1970-02-08 06:40:13.430424+00:00,13,0
+Laser Marking - Machine 7,1970-02-08 07:52:06.914908+00:00,20,0
+Final Inspection Q.C.,1970-02-11 16:38:17.548476+00:00,24,0
+Grinding Rework,1970-02-19 01:40:26.118163+00:00,15,0
+Final Inspection Q.C.,1970-02-21 11:06:00.093351+00:00,19,0
+Grinding Rework,1970-03-04 09:50:34.288112+00:00,18,0
+Final Inspection Q.C.,1970-03-08 06:30:44.237918+00:00,23,0
+Final Inspection Q.C.,1970-03-08 20:36:51.565165+00:00,20,0
+Round Grinding - Machine 3,1970-03-09 01:05:02.109520+00:00,17,0
+Grinding Rework - Machine 12,1970-03-24 11:22:52.686345+00:00,16,0
+Final Inspection Q.C.,1970-03-26 15:53:32.563347+00:00,18,0
+Final Inspection Q.C.,1970-03-26 19:45:26.764417+00:00,20,0
+Flat Grinding - Machine 11,1970-03-29 01:57:57.133522+00:00,24,0
+Flat Grinding - Machine 11,1970-03-30 00:14:06.214497+00:00,23,0
+Turning & Milling - Machine 6,1970-01-31 02:40:32.405774+00:00,22,0
+Final Inspection Q.C.,1970-02-01 19:25:40.488842+00:00,20,0
+Round Grinding - Manual,1970-02-02 04:20:47.425464+00:00,24,0
+Round Grinding - Machine 3,1970-02-03 00:42:00.826470+00:00,25,0
+Laser Marking - Machine 7,1970-02-04 18:15:50.398769+00:00,16,0
+Turning & Milling Q.C.,1970-02-08 20:44:49.450199+00:00,14,0
+Turning & Milling Q.C.,1970-02-09 15:45:36.130303+00:00,22,0
+Laser Marking - Machine 7,1970-02-10 03:46:02.234735+00:00,15,0
+Packing,1970-02-12 22:28:34.642560+00:00,21,0
+Turning & Milling Q.C.,1970-02-15 21:31:53.013453+00:00,17,0
+Lapping - Machine 1,1970-02-22 02:52:56.971987+00:00,15,0
+Turning & Milling - Machine 4,1970-02-22 19:19:56.349663+00:00,18,0
+Turning & Milling Q.C.,1970-02-28 03:33:54.119320+00:00,20,0
+Turning & Milling - Machine 4,1970-02-28 10:45:52.058512+00:00,24,0
+Turning & Milling - Machine 4,1970-03-01 11:19:33.670608+00:00,22,0
+Turning & Milling - Machine 8,1970-03-02 02:21:48.344841+00:00,21,0
+Turn & Mill. & Screw Assem - Machine 10,1970-03-02 04:06:26.441465+00:00,21,0
+Final Inspection Q.C.,1970-03-05 12:06:19.234185+00:00,20,0
+Turning & Milling - Machine 4,1970-03-05 15:03:28.283858+00:00,24,0
+Turning & Milling - Machine 4,1970-03-05 18:41:32.359154+00:00,19,0
+Grinding Rework - Machine 27,1970-03-06 12:14:53.008442+00:00,17,0
+Turning & Milling - Machine 4,1970-03-07 00:39:06.783486+00:00,13,0
+Turning & Milling - Machine 4,1970-03-07 03:35:10.798832+00:00,15,0
+Turning & Milling - Machine 8,1970-03-07 19:18:13.028066+00:00,17,0
+Turning & Milling - Machine 6,1970-03-07 20:35:09.497437+00:00,18,0
+Turning & Milling - Machine 4,1970-03-07 21:58:43.534197+00:00,22,0
+Turning & Milling - Machine 4,1970-03-08 02:41:32.940876+00:00,24,0
+Turning & Milling - Machine 4,1970-03-08 03:59:52.782929+00:00,13,0
+Turning & Milling - Machine 4,1970-03-08 13:17:22.784523+00:00,13,0
+Turning & Milling - Machine 4,1970-03-09 00:31:46.286267+00:00,15,0
+Turning & Milling - Machine 4,1970-03-09 09:07:23.468825+00:00,27,0
+Turning & Milling - Machine 4,1970-03-09 16:52:45.762973+00:00,16,0
+Turning & Milling - Machine 4,1970-03-09 20:58:27.014649+00:00,18,0
+Turning & Milling - Machine 4,1970-03-10 05:33:41.690164+00:00,23,0
+Turning & Milling - Machine 4,1970-03-10 06:11:53.537391+00:00,24,0
+Turning & Milling - Machine 4,1970-03-10 14:36:58.894457+00:00,24,0
+Turning & Milling - Machine 4,1970-03-11 00:46:52.793355+00:00,23,0
+Turning & Milling - Machine 4,1970-03-11 04:19:46.640964+00:00,23,0
+Turning & Milling - Machine 4,1970-03-11 07:32:06.500687+00:00,16,0
+Turning & Milling - Machine 4,1970-03-11 08:42:35.780690+00:00,23,0
+Turning & Milling - Machine 4,1970-03-12 02:48:03.094723+00:00,23,0
+Turning & Milling - Machine 4,1970-03-12 14:53:27.492369+00:00,16,0
+Turning & Milling - Machine 4,1970-03-12 15:03:07.899302+00:00,23,0
+Turning & Milling - Machine 4,1970-03-12 18:48:24.770445+00:00,22,0
+Turning & Milling - Machine 4,1970-03-13 04:19:34.267577+00:00,13,0
+Turning & Milling - Machine 4,1970-03-13 17:22:49.137100+00:00,16,0
+Turning & Milling - Machine 4,1970-03-13 23:54:00.607539+00:00,17,0
+Turning & Milling - Machine 4,1970-03-14 08:30:05.478273+00:00,23,0
+Turning & Milling - Machine 4,1970-03-14 14:00:22.390466+00:00,18,0
+Turning & Milling - Machine 4,1970-03-14 15:25:00.516219+00:00,14,0
+Round Grinding - Q.C.,1970-02-01 04:12:28.784164+00:00,21,0
+Round Grinding - Machine 3,1970-02-01 10:39:17.637954+00:00,28,0
+Turning & Milling Q.C.,1970-02-05 22:14:57.825805+00:00,22,0
+Round Grinding - Q.C.,1970-02-10 10:53:06.895944+00:00,23,0
+Round Grinding - Manual,1970-02-11 13:32:02.327576+00:00,23,0
+Turn & Mill. & Screw Assem - Machine 10,1970-02-11 13:43:50.523642+00:00,24,0
+Lapping - Machine 1,1970-02-18 07:49:51.697359+00:00,23,0
+Lapping - Machine 1,1970-02-19 12:15:28.253699+00:00,22,0
+Lapping - Machine 1,1970-02-21 19:27:31.805752+00:00,22,0
+Lapping - Machine 1,1970-02-25 17:10:49.514635+00:00,21,0
+Lapping - Machine 1,1970-03-05 06:55:50.275868+00:00,17,0
+Round Grinding - Q.C.,1970-03-15 00:29:25.052157+00:00,24,0
+Lapping - Machine 1,1970-03-17 23:13:56.535253+00:00,20,0
+Lapping - Machine 1,1970-04-08 20:40:36.281874+00:00,17,0
+Lapping - Machine 1,1970-04-12 02:35:15.361961+00:00,24,0
+Lapping - Machine 1,1970-04-14 07:33:06.502718+00:00,23,0
+Round Grinding - Q.C.,1970-04-14 11:26:14.163522+00:00,14,0
+Turning & Milling - Machine 5,1970-04-14 16:40:44.111226+00:00,19,0
+Final Inspection Q.C.,1970-04-17 02:23:18.084939+00:00,11,0
+Round Grinding - Q.C.,1970-04-20 19:26:49.426467+00:00,20,0
+Round Grinding - Machine 3,1970-04-21 06:48:24.135502+00:00,19,0
+Turning & Milling - Machine 5,1970-04-21 11:45:55.127177+00:00,25,0
+Laser Marking - Machine 7,1970-04-23 00:43:24.481098+00:00,22,0
+Turning & Milling - Machine 8,1970-04-23 03:48:24.764659+00:00,15,0
+Round Grinding - Machine 3,1970-02-01 12:38:39.803064+00:00,17,0
+Grinding Rework - Machine 27,1970-02-02 05:05:56.159284+00:00,20,0
+Laser Marking - Machine 7,1970-02-05 07:18:09.600949+00:00,21,0
+Turning & Milling - Machine 9,1970-02-05 08:10:23.458412+00:00,22,0
+Packing,1970-02-21 20:02:35.432800+00:00,21,0
+Packing,1970-02-25 14:57:54.472611+00:00,19,0
+Turning & Milling - Machine 8,1970-02-25 15:15:07.529349+00:00,18,0
+Round Grinding - Machine 3,1970-02-26 12:01:13.541851+00:00,20,0
+Turning - Machine 8,1970-02-26 20:31:22.839821+00:00,23,0
+Round Grinding - Manual,1970-02-27 09:57:22.220026+00:00,20,0
+Round Grinding - Machine 2,1970-02-27 11:56:55.693987+00:00,16,0
+Round Grinding - Machine 2,1970-02-28 06:23:15.487277+00:00,17,0
+Turning & Milling - Machine 5,1970-02-28 20:45:12.981017+00:00,23,0
+Final Inspection Q.C.,1970-03-05 09:41:39.191259+00:00,17,0
+Turning & Milling - Machine 6,1970-02-01 15:41:35.785946+00:00,16,0
+Final Inspection Q.C.,1970-02-01 21:58:20.751668+00:00,25,0
+Final Inspection Q.C.,1970-02-03 19:29:48.609389+00:00,22,0
+Laser Marking - Machine 7,1970-02-06 22:32:12.721848+00:00,11,0
+Final Inspection Q.C.,1970-02-09 05:02:44.572548+00:00,17,0
+Lapping - Machine 1,1970-02-13 20:47:58.653124+00:00,24,0
+Grinding Rework - Machine 12,1970-02-17 02:17:19.877619+00:00,18,0
+Final Inspection Q.C.,1970-02-20 18:29:52.670945+00:00,18,0
+Round Grinding - Machine 3,1970-02-21 03:58:33.530963+00:00,21,0
+Packing,1970-02-21 04:19:18.982540+00:00,19,0
+Turning & Milling Q.C.,1970-02-22 01:15:49.030859+00:00,16,0
+Final Inspection Q.C.,1970-02-22 22:42:49.627163+00:00,15,0
+Grinding Rework - Machine 27,1970-02-13 00:18:39.626923+00:00,15,0
+Lapping - Machine 1,1970-02-13 21:39:39.695921+00:00,15,0
+Turning & Milling - Machine 5,1970-02-13 21:45:27.222642+00:00,19,0
+Final Inspection Q.C.,1970-02-15 15:55:26.897152+00:00,25,1
+Final Inspection Q.C.,1970-02-17 12:34:08.156685+00:00,22,0
+Final Inspection Q.C.,1970-02-18 23:10:49.992877+00:00,24,0
+Lapping - Machine 1,1970-02-25 00:08:44.516737+00:00,17,0
+Lapping - Machine 1,1970-03-01 17:33:55.366092+00:00,18,0
+Round Grinding - Machine 3,1970-03-02 09:10:32.536857+00:00,29,0
+Round Grinding - Machine 3,1970-02-02 19:14:25.964448+00:00,24,0
+Turning & Milling - Machine 10,1970-02-02 19:45:54.696007+00:00,22,0
+Turning & Milling - Machine 10,1970-02-04 16:41:56.077000+00:00,17,0
+Packing,1970-02-08 18:56:06.659634+00:00,15,0
+Packing,1970-02-09 03:27:33.640372+00:00,24,0
+Packing,1970-02-12 09:56:57.409497+00:00,11,0
+Flat Grinding - Machine 11,1970-02-16 10:35:26.446246+00:00,20,0
+Turning & Milling Q.C.,1970-02-25 22:15:03.552744+00:00,19,0
+Turning & Milling Q.C.,1970-03-06 00:45:04.739586+00:00,21,0
+Turning & Milling Q.C.,1970-03-07 19:34:52.877160+00:00,17,0
+Turning & Milling Q.C.,1970-03-08 19:17:57.095439+00:00,24,0
+Turning & Milling Q.C.,1970-03-11 15:21:52.555424+00:00,19,0
+Turning & Milling Q.C.,1970-03-13 08:25:26.993959+00:00,22,0
+Turning & Milling Q.C.,1970-03-18 16:07:09.401548+00:00,18,0
+Turning & Milling Q.C.,1970-03-18 23:08:07.079274+00:00,15,0
+Turning & Milling Q.C.,1970-03-19 18:40:26.868205+00:00,18,0
+Turning & Milling Q.C.,1970-03-19 19:29:08.245057+00:00,19,0
+Turning & Milling Q.C.,1970-03-22 18:53:50.656080+00:00,19,0
+Turning & Milling Q.C.,1970-03-25 04:24:22.068297+00:00,16,0
+Turning & Milling Q.C.,1970-04-04 21:38:58.535692+00:00,18,0
+Turning & Milling Q.C.,1970-04-06 18:49:36.953272+00:00,16,0
+Turning & Milling - Machine 5,1970-02-03 05:00:51.808766+00:00,17,0
+Turning & Milling - Machine 6,1970-02-03 15:45:00.033200+00:00,11,0
+Packing,1970-02-05 07:32:20.688723+00:00,27,0
+Lapping - Machine 1,1970-02-16 14:21:40.597447+00:00,17,0
+Lapping - Machine 1,1970-02-17 21:23:59.961298+00:00,17,0
+Lapping - Machine 1,1970-03-10 10:53:41.376565+00:00,21,0
+Turning & Milling Q.C.,1970-03-12 01:06:32.654908+00:00,25,0
+Turning & Milling - Machine 8,1970-03-12 22:54:29.937446+00:00,17,0
+Laser Marking - Machine 7,1970-03-14 06:20:41.203088+00:00,21,0
+Turning & Milling Q.C.,1970-02-04 17:28:25.839123+00:00,16,0
+Round Grinding - Q.C.,1970-02-05 02:32:55.218772+00:00,19,0
+Round Grinding - Q.C.,1970-02-05 16:02:52.557270+00:00,26,0
+Round Grinding - Q.C.,1970-02-11 07:43:47.138507+00:00,25,0
+Round Grinding - Q.C.,1970-02-12 12:12:52.146398+00:00,22,0
+Round Grinding - Q.C.,1970-02-15 20:13:53.097368+00:00,16,0
+Turning - Machine 8,1970-02-03 19:55:43.492639+00:00,24,0
+Turning & Milling - Machine 6,1970-02-04 04:27:39.708612+00:00,17,0
+Turning & Milling - Machine 8,1970-02-04 21:17:25.531896+00:00,13,0
+Round Grinding - Machine 2,1970-02-05 04:14:08.356874+00:00,24,0
+Round Grinding - Machine 3,1970-02-06 07:32:23.075919+00:00,23,0
+Final Inspection Q.C.,1970-02-10 01:49:29.228432+00:00,19,0
+Final Inspection Q.C.,1970-02-10 05:20:14.294076+00:00,20,0
+Lapping - Machine 1,1970-02-12 16:11:06.106358+00:00,14,0
+Lapping - Machine 1,1970-02-12 22:28:05.661613+00:00,19,0
+Lapping - Machine 1,1970-02-17 00:28:02.870986+00:00,19,0
+Lapping - Machine 1,1970-02-19 14:57:59.997050+00:00,18,0
+Packing,1970-02-21 12:40:01.868749+00:00,23,0
+Packing,1970-02-22 15:24:07.229775+00:00,19,0
+Turning & Milling - Machine 8,1970-02-24 04:05:37.886766+00:00,19,0
+Lapping - Machine 1,1970-02-26 21:30:31.447812+00:00,22,0
+Laser Marking - Machine 7,1970-03-05 00:14:48.673535+00:00,20,0
+Lapping - Machine 1,1970-03-13 10:27:44.233535+00:00,22,0
+Turning & Milling - Machine 9,1970-03-13 10:57:20.148575+00:00,16,0
+Lapping - Machine 1,1970-03-16 03:53:34.123938+00:00,17,0
+Lapping - Machine 1,1970-03-22 07:20:40.904732+00:00,19,0
+Packing,1970-03-23 23:10:08.697437+00:00,15,0
+Final Inspection Q.C.,1970-03-24 06:46:45.303189+00:00,25,0
+Lapping - Machine 1,1970-03-25 19:52:23.961354+00:00,23,0
+Lapping - Machine 1,1970-03-29 00:49:11.012834+00:00,23,0
+Packing,1970-04-05 11:11:20.597044+00:00,21,0
+Lapping - Machine 1,1970-04-06 04:48:58.351203+00:00,21,0
+Milling - Machine 16,1970-02-03 22:40:28.359460+00:00,27,0
+Round Grinding - Machine 3,1970-02-04 10:01:23.153206+00:00,22,0
+Turning & Milling - Machine 6,1970-02-04 13:48:10.233020+00:00,18,0
+Grinding Rework - Machine 27,1970-02-04 15:33:59.362394+00:00,18,0
+Lapping - Machine 1,1970-02-11 03:56:16.861160+00:00,20,0
+Lapping - Machine 1,1970-02-16 17:16:11.989236+00:00,22,0
+Turning & Milling Q.C.,1970-02-18 03:24:56.863863+00:00,16,0
+Lapping - Machine 1,1970-02-24 21:46:37.748819+00:00,19,0
+Turning & Milling - Machine 5,1970-02-25 06:43:37.794201+00:00,24,0
+Turning & Milling - Machine 6,1970-02-25 07:56:12.526739+00:00,18,0
+Round Grinding - Machine 12,1970-02-26 09:36:43.882325+00:00,18,0
+Round Grinding - Machine 12,1970-02-27 11:27:21.908977+00:00,24,0
+Round Grinding - Machine 3,1970-02-27 12:05:52.630796+00:00,16,0
+Round Grinding - Machine 3,1970-02-27 17:14:47.463936+00:00,16,0
+Flat Grinding - Machine 11,1970-03-03 00:18:24.998953+00:00,25,0
+Lapping - Machine 1,1970-03-04 16:30:18.654535+00:00,23,0
+Round Grinding - Machine 3,1970-03-05 02:16:25.429640+00:00,20,0
+Milling - Machine 16,1970-03-06 11:49:03.360120+00:00,10,0
+Round Grinding - Machine 3,1970-03-06 14:49:33.448227+00:00,21,0
+Laser Marking - Machine 7,1970-03-07 16:21:47.402620+00:00,27,0
+Final Inspection Q.C.,1970-03-08 08:58:53.977938+00:00,13,0
+Final Inspection Q.C.,1970-03-09 15:39:03.039159+00:00,21,0
+Flat Grinding - Machine 11,1970-03-10 20:30:33.059974+00:00,18,0
+Turn & Mill. & Screw Assem - Machine 10,1970-03-10 23:43:50.340440+00:00,23,0
+Turning & Milling - Machine 5,1970-03-11 18:21:04.803321+00:00,28,0
+Turning & Milling - Machine 8,1970-03-13 13:08:59.193834+00:00,19,0
+Turning & Milling - Machine 8,1970-03-13 23:10:35.545611+00:00,19,0
+Turning & Milling - Machine 6,1970-03-14 06:11:01.205178+00:00,20,0
+Turning & Milling - Machine 6,1970-03-14 15:57:04.966974+00:00,19,0
+Turning & Milling - Machine 6,1970-03-14 18:45:30.285983+00:00,22,0
+Grinding Rework - Machine 27,1970-03-16 05:15:11.504866+00:00,21,0
+Final Inspection Q.C.,1970-03-19 01:08:36.763013+00:00,24,0
+Packing,1970-03-21 11:09:55.045846+00:00,17,0
+Lapping - Machine 1,1970-03-25 08:59:12.709020+00:00,22,0
+Turning & Milling Q.C.,1970-02-11 15:08:04.118106+00:00,19,0
+Turning & Milling Q.C.,1970-02-16 02:02:22.499368+00:00,19,0
+Round Grinding - Machine 3,1970-02-18 02:21:16.697531+00:00,19,0
+Lapping - Machine 1,1970-03-09 14:58:31.958830+00:00,22,0
+Turning & Milling - Machine 4,1970-03-10 06:09:52.618172+00:00,15,0
+Round Grinding - Machine 2,1970-03-10 07:50:01.749711+00:00,21,0
+Round Grinding - Machine 2,1970-03-11 01:08:39.667984+00:00,22,0
+Round Grinding - Machine 2,1970-03-11 17:14:14.774538+00:00,18,0
+Turning & Milling - Machine 4,1970-03-12 03:57:24.977682+00:00,20,0
+Turning & Milling - Machine 4,1970-03-12 09:07:08.980289+00:00,22,0
+Round Grinding - Machine 3,1970-03-13 14:18:33.217188+00:00,17,0
+Laser Marking - Machine 7,1970-03-19 08:55:53.261563+00:00,18,0
+Turning & Milling - Machine 4,1970-03-19 17:18:49.585149+00:00,20,1
+Turning & Milling - Machine 4,1970-03-19 18:02:04.519714+00:00,16,0
+Turning & Milling - Machine 5,1970-02-04 21:12:18.225093+00:00,20,0
+Lapping - Machine 1,1970-02-08 09:17:01.410541+00:00,24,0
+Turning & Milling Q.C.,1970-02-12 14:45:34.493764+00:00,19,0
+Turning & Milling Q.C.,1970-02-13 17:25:29.509902+00:00,20,0
+Turning & Milling Q.C.,1970-02-16 04:21:06.647370+00:00,21,0
+Turning & Milling Q.C.,1970-02-16 15:58:00.357773+00:00,16,0
+Turning & Milling Q.C.,1970-02-17 12:13:02.259805+00:00,11,0
+Turning & Milling Q.C.,1970-02-17 19:58:40.432950+00:00,26,0
+Turning & Milling - Machine 6,1970-02-06 20:01:06.138938+00:00,16,0
+Turning & Milling Q.C.,1970-02-07 19:29:37.102979+00:00,18,0
+Laser Marking - Machine 7,1970-02-12 02:48:25.149324+00:00,24,0
+Packing,1970-02-14 07:18:26.486460+00:00,20,0
+Turning & Milling - Machine 5,1970-02-15 00:27:39.329569+00:00,15,0
+Round Grinding - Machine 3,1970-02-16 22:59:54.228176+00:00,23,0
+Turning & Milling - Machine 4,1970-02-17 06:07:14.174859+00:00,18,0
+Turning & Milling - Machine 5,1970-02-17 18:02:54.276088+00:00,16,0
+Final Inspection Q.C.,1970-02-19 19:04:00.241361+00:00,17,0
+Final Inspection Q.C.,1970-02-20 11:01:33.599391+00:00,15,0
+Turning & Milling - Machine 4,1970-02-20 16:35:00.116741+00:00,15,0
+Turning & Milling - Machine 4,1970-02-20 17:15:34.690884+00:00,15,0
+Laser Marking - Machine 7,1970-03-11 13:08:21.449484+00:00,18,0
+Turning & Milling - Machine 4,1970-03-11 13:33:18.490813+00:00,15,0
+Turning & Milling - Machine 6,1970-02-07 07:30:21.089533+00:00,19,0
+Packing,1970-02-10 13:20:28.293205+00:00,26,0
+Laser Marking - Machine 7,1970-02-10 14:49:56.991010+00:00,16,0
+Turning & Milling Q.C.,1970-02-12 10:41:02.606458+00:00,18,0
+Turning & Milling Q.C.,1970-02-15 10:13:14.477385+00:00,19,0
+Turning & Milling Q.C.,1970-02-15 22:38:42.778664+00:00,26,0
+Round Grinding - Machine 3,1970-02-07 06:58:07.657720+00:00,20,0
+Laser Marking - Machine 7,1970-02-13 18:58:23.527331+00:00,15,0
+Packing,1970-02-14 16:50:28.337021+00:00,19,0
+Turning & Milling Q.C.,1970-02-20 09:38:54.332148+00:00,19,0
+Round Grinding - Machine 3,1970-02-21 22:35:45.268627+00:00,22,0
+Laser Marking - Machine 7,1970-02-24 00:03:39.695682+00:00,24,0
+Lapping - Machine 1,1970-03-06 17:35:47.968993+00:00,16,0
+Packing,1970-03-06 18:02:14.144489+00:00,21,0
+Lapping - Machine 1,1970-03-07 06:43:24.600050+00:00,10,0
+Packing,1970-03-07 07:09:22.578839+00:00,15,0
+Packing,1970-03-24 00:18:55.954268+00:00,19,0
+Turning & Milling - Machine 5,1970-03-25 08:22:20.280862+00:00,23,0
+Round Grinding - Machine 2,1970-03-25 12:06:35.773289+00:00,16,0
+Turning & Milling Q.C.,1970-03-26 06:40:48.199791+00:00,17,0
+Turning & Milling Q.C.,1970-03-28 19:35:24.283128+00:00,17,0
+Turning & Milling - Machine 8,1970-03-28 19:46:31.222731+00:00,23,0
+Round Grinding - Machine 2,1970-03-28 23:04:32.386678+00:00,23,0
+Round Grinding - Machine 2,1970-03-29 16:04:14.232187+00:00,19,0
+Turning & Milling - Machine 6,1970-03-31 14:43:00.636815+00:00,23,0
+Laser Marking - Machine 7,1970-04-04 02:44:30.879365+00:00,17,0
+Packing,1970-04-12 03:33:07.424050+00:00,22,0
+Lapping - Machine 1,1970-04-16 10:47:49.897137+00:00,21,0
+Lapping - Machine 1,1970-04-25 19:54:39.606548+00:00,14,0
+Lapping - Machine 1,1970-05-05 21:41:52.883430+00:00,30,0
+Turning - Machine 8,1970-05-05 22:29:56.526045+00:00,16,0
+Lapping - Machine 1,1970-05-08 22:55:44.964766+00:00,13,0
+Packing,1970-05-15 13:21:16.608608+00:00,20,0
+Packing,1970-05-15 15:30:08.552533+00:00,24,0
+Turning & Milling - Machine 5,1970-05-16 11:26:37.270258+00:00,22,0
+Turning & Milling - Machine 5,1970-05-16 14:54:11.302871+00:00,21,0
+Turning & Milling - Machine 6,1970-05-17 02:20:28.580362+00:00,16,0
+Laser Marking - Machine 7,1970-05-22 18:41:13.933410+00:00,21,1
+Turning & Milling - Machine 6,1970-02-06 17:42:14.349622+00:00,27,0
+Turning & Milling - Machine 5,1970-02-06 20:10:47.768387+00:00,22,0
+Turning & Milling - Machine 6,1970-02-07 09:53:47.890293+00:00,22,0
+Turning & Milling - Machine 8,1970-02-06 19:45:10.708330+00:00,20,0
+Turning & Milling - Machine 6,1970-02-07 14:36:31.804596+00:00,22,0
+Round Grinding - Machine 3,1970-02-07 18:44:41.375141+00:00,22,0
+Final Inspection Q.C.,1970-02-07 23:39:40.798725+00:00,9,0
+Turning & Milling - Machine 4,1970-02-09 08:07:42.697165+00:00,25,0
+Turning & Milling - Machine 4,1970-02-09 22:32:25.021089+00:00,24,0
+Laser Marking - Machine 7,1970-02-10 14:53:57.629136+00:00,20,0
+Flat Grinding - Machine 11,1970-02-13 10:10:38.663367+00:00,29,0
+Turning & Milling - Machine 6,1970-02-13 17:03:14.023786+00:00,31,0
+Turning & Milling - Machine 6,1970-02-13 20:47:17.068294+00:00,28,0
+Lapping - Machine 1,1970-02-14 00:43:48.734774+00:00,24,0
+Turning & Milling - Machine 5,1970-02-07 04:01:52.193914+00:00,21,0
+Turning & Milling Q.C.,1970-02-07 19:03:33.312511+00:00,20,0
+Laser Marking - Machine 7,1970-02-08 14:39:48.944846+00:00,22,0
+Turning & Milling - Machine 8,1970-02-08 22:42:00.172850+00:00,22,0
+Turning & Milling - Machine 5,1970-02-09 04:01:43.646334+00:00,22,0
+Laser Marking - Machine 7,1970-02-16 08:18:03.317953+00:00,27,0
+Lapping - Machine 1,1970-02-21 00:41:42.400692+00:00,23,0
+Turning & Milling - Machine 9,1970-02-21 01:36:12.917038+00:00,29,0
+Turning & Milling - Machine 9,1970-02-21 04:53:02.244215+00:00,13,0
+Turning & Milling Q.C.,1970-02-21 15:32:28.137268+00:00,24,0
+Turning & Milling - Machine 9,1970-02-21 21:27:07.946313+00:00,26,0
+Turning & Milling - Machine 9,1970-02-22 00:20:07.266209+00:00,28,0
+Turning & Milling - Machine 9,1970-02-22 10:35:22.442324+00:00,19,0
+Turning & Milling - Machine 9,1970-02-23 01:45:33.309766+00:00,27,0
+Turning & Milling Q.C.,1970-02-26 12:49:51.856994+00:00,18,0
+Turning & Milling - Machine 9,1970-02-27 13:32:51.798412+00:00,21,0
+Turning & Milling Q.C.,1970-02-28 03:59:21.226173+00:00,25,0
+Turning & Milling - Machine 9,1970-03-02 08:54:58.899020+00:00,21,0
+Turning & Milling - Machine 9,1970-03-02 09:57:01.313239+00:00,20,0
+Packing,1970-03-04 17:32:14.739887+00:00,23,0
+Turning & Milling - Machine 5,1970-03-04 18:04:07.866407+00:00,19,0
+Final Inspection Q.C.,1970-03-05 05:37:18.809070+00:00,27,0
+Final Inspection Q.C.,1970-03-13 18:30:26.789054+00:00,22,0
+Flat Grinding - Machine 11,1970-03-14 11:11:14.121445+00:00,23,0
+Round Grinding - Machine 3,1970-03-15 02:54:53.450323+00:00,26,0
+Turning & Milling Q.C.,1970-03-17 16:31:11.419508+00:00,17,0
+Lapping - Machine 1,1970-03-25 07:26:32.597920+00:00,21,0
+Turning & Milling Q.C.,1970-03-26 00:22:37.012618+00:00,21,0
+Turning - Machine 8,1970-03-26 16:29:07.416537+00:00,18,0
+Turning & Milling - Machine 6,1970-03-27 06:31:07.854328+00:00,22,0
+Flat Grinding - Machine 11,1970-03-28 11:01:10.095410+00:00,18,0
+Final Inspection Q.C.,1970-03-30 09:45:26.078247+00:00,15,0
+Turning & Milling Q.C.,1970-04-02 18:39:08.986125+00:00,26,0
+Packing,1970-04-05 10:22:39.577555+00:00,18,0
+Turning & Milling - Machine 8,1970-04-06 05:12:06.690984+00:00,27,0
+Round Grinding - Manual,1970-02-08 00:20:51.198668+00:00,14,0
+Turning & Milling Q.C.,1970-02-10 08:04:00.271479+00:00,22,0
+Round Grinding - Machine 3,1970-02-10 11:34:36.500802+00:00,22,0
+Turning & Milling - Machine 10,1970-02-10 21:23:37.027608+00:00,9,0
+Turning & Milling Q.C.,1970-02-12 20:48:42.099999+00:00,22,0
+Packing,1970-02-15 12:06:53.418986+00:00,26,0
+Turning & Milling Q.C.,1970-02-20 02:06:04.741781+00:00,25,0
+Turning & Milling - Machine 5,1970-02-20 05:47:02.807156+00:00,19,0
+Grinding Rework - Machine 27,1970-02-09 13:36:54.176600+00:00,22,0
+Turning & Milling Q.C.,1970-02-10 14:28:33.598201+00:00,29,0
+Turning & Milling Q.C.,1970-02-10 20:53:04.391467+00:00,18,0
+Laser Marking - Machine 7,1970-02-16 19:35:22.006697+00:00,19,0
+Lapping - Machine 1,1970-02-20 02:09:35.212115+00:00,20,0
+Lapping - Machine 1,1970-02-22 07:01:06.817603+00:00,19,0
+Turning & Milling Q.C.,1970-02-24 06:29:42.062586+00:00,19,0
+Turning & Milling Q.C.,1970-02-25 23:53:07.409004+00:00,16,0
+Round Grinding - Q.C.,1970-02-27 04:25:00.889435+00:00,17,0
+Round Grinding - Q.C.,1970-02-27 14:40:48.037209+00:00,19,0
+Round Grinding - Q.C.,1970-03-01 00:17:53.154451+00:00,12,0
+Round Grinding - Q.C.,1970-03-03 03:03:14.139359+00:00,19,0
+Round Grinding - Q.C.,1970-02-14 23:47:46.687202+00:00,18,0
+Round Grinding - Machine 3,1970-02-16 02:40:35.150635+00:00,16,0
+Round Grinding - Q.C.,1970-02-19 01:51:28.804296+00:00,15,0
+Lapping - Machine 1,1970-02-20 08:44:30.606525+00:00,15,0
+Turning & Milling Q.C.,1970-02-25 03:02:10.526719+00:00,16,0
+Packing,1970-02-27 07:17:02.001205+00:00,25,0
+Packing,1970-03-03 02:00:24.570572+00:00,20,0
+Round Grinding - Q.C.,1970-03-04 08:09:10.774928+00:00,27,0
+Turning & Milling - Machine 6,1970-03-05 04:05:06.778586+00:00,18,0
+Grinding Rework - Machine 27,1970-03-05 06:39:38.369828+00:00,24,0
+Turning & Milling - Machine 10,1970-03-05 17:23:06.738718+00:00,15,0
+Turning & Milling - Machine 10,1970-03-07 21:04:22.742920+00:00,15,0
+Turning & Milling - Machine 10,1970-03-08 12:50:26.833692+00:00,16,0
+Turning & Milling - Machine 10,1970-03-09 03:55:48.259518+00:00,20,0
+Turning & Milling - Machine 10,1970-03-10 16:12:24.996105+00:00,23,0
+Lapping - Machine 1,1970-03-17 12:03:18.115599+00:00,16,0
+Lapping - Machine 1,1970-03-22 09:15:04.264863+00:00,23,0
+Packing,1970-03-26 00:25:19.379140+00:00,16,0
+Turning & Milling Q.C.,1970-03-26 12:26:53.995068+00:00,15,0
+Round Grinding - Machine 2,1970-03-26 18:42:20.708105+00:00,14,0
+Round Grinding - Machine 2,1970-03-27 08:28:57.069643+00:00,26,0
+Round Grinding - Machine 2,1970-03-27 08:41:39.060550+00:00,15,0
+Turning & Milling Q.C.,1970-03-30 22:50:01.730032+00:00,20,0
+Turning & Milling Q.C.,1970-04-01 12:54:06.571289+00:00,21,0
+Turning & Milling Q.C.,1970-04-04 00:27:38.018070+00:00,22,0
+Turning - Machine 8,1970-02-08 20:18:37.118822+00:00,16,0
+Turning Q.C.,1970-02-11 00:50:01.874112+00:00,17,0
+Grinding Rework - Machine 12,1970-02-13 07:13:26.850670+00:00,23,0
+Round Grinding - Machine 3,1970-02-18 03:34:54.476516+00:00,28,0
+Final Inspection Q.C.,1970-02-25 06:39:11.784452+00:00,22,1
+Turning & Milling - Machine 8,1970-02-25 13:56:27.012314+00:00,13,0
+Final Inspection Q.C.,1970-03-04 22:59:45.443429+00:00,23,0
+Round Grinding - Manual,1970-03-05 06:24:51.720386+00:00,22,0
+Turning & Milling - Machine 6,1970-03-05 18:03:25.092943+00:00,19,0
+Turning Q.C.,1970-02-10 11:44:24.645268+00:00,17,0
+Grinding Rework - Machine 27,1970-02-11 17:54:04.440301+00:00,21,0
+Fix - Machine 19,1970-02-11 17:54:04.440301+00:00,19,0
+Grinding Rework - Machine 27,1970-02-17 00:22:55.527722+00:00,24,0
+Lapping - Machine 1,1970-02-18 21:52:17.998857+00:00,16,0
+Lapping - Machine 1,1970-02-20 01:30:58.531465+00:00,17,0
+Packing,1970-03-05 02:04:53.290551+00:00,25,0
+Turning Q.C.,1970-03-07 12:33:01.122445+00:00,19,0
+Lapping - Machine 1,1970-03-07 15:46:22.377040+00:00,32,0
+Turning & Milling Q.C.,1970-03-16 12:57:53.865045+00:00,20,0
+Round Grinding - Machine 3,1970-03-18 14:58:35.313214+00:00,15,0
+Round Grinding - Manual,1970-03-19 09:41:50.686101+00:00,22,0
+Round Grinding - Machine 2,1970-03-20 01:51:17.798522+00:00,17,0
+Turning & Milling Q.C.,1970-03-20 11:09:45.789357+00:00,27,0
+Round Grinding - Machine 2,1970-03-21 01:25:12.115407+00:00,19,0
+Round Grinding - Machine 2,1970-03-21 04:08:11.953547+00:00,25,0
+Turning & Milling Q.C.,1970-03-24 03:06:58.241216+00:00,22,0
+Turning Q.C.,1970-03-25 00:07:26.550347+00:00,22,0
+Turning Q.C.,1970-03-27 21:54:52.306083+00:00,20,0
+Round Grinding - Machine 12,1970-03-28 13:05:19.530896+00:00,14,0
+Turning & Milling Q.C.,1970-04-01 04:27:22.006240+00:00,25,0
+Flat Grinding - Machine 11,1970-04-03 02:17:11.253496+00:00,19,0
+Turning & Milling - Machine 5,1970-04-03 22:38:46.413834+00:00,18,0
+Round Grinding - Manual,1970-04-03 23:31:51.067028+00:00,26,0
+Turning & Milling Q.C.,1970-04-05 20:33:15.195997+00:00,25,0
+Round Grinding - Machine 3,1970-04-07 22:07:58.722566+00:00,15,0
+Flat Grinding - Machine 11,1970-04-09 01:35:02.376815+00:00,20,0
+Turning & Milling Q.C.,1970-04-10 22:19:03.955839+00:00,17,0
+Laser Marking - Machine 7,1970-04-12 11:12:31.546991+00:00,18,0
+Turning & Milling Q.C.,1970-04-14 06:19:40.730462+00:00,21,0
+Round Grinding - Machine 3,1970-02-09 21:24:19.754640+00:00,25,0
+Final Inspection Q.C.,1970-02-11 05:12:16.516527+00:00,15,0
+Final Inspection Q.C.,1970-02-16 03:36:11.626486+00:00,26,0
+Turning - Machine 8,1970-02-18 04:38:24.842491+00:00,24,0
+Round Grinding - Machine 3,1970-02-18 18:23:28.092677+00:00,11,0
+Final Inspection Q.C.,1970-02-19 00:53:30.490043+00:00,18,0
+Round Grinding - Manual,1970-02-19 13:16:15.138413+00:00,20,0
+Turn & Mill. & Screw Assem - Machine 10,1970-02-23 17:36:38.689123+00:00,23,0
+Round Grinding - Machine 3,1970-02-25 08:29:21.164183+00:00,26,0
+Grinding Rework - Machine 27,1970-02-28 18:48:34.535648+00:00,18,0
+Lapping - Machine 1,1970-03-01 16:56:03.457550+00:00,25,0
+Packing,1970-03-02 02:16:56.336012+00:00,18,0
+Packing,1970-03-02 12:45:38.815532+00:00,23,0
+Lapping - Machine 1,1970-03-04 15:57:46.344456+00:00,21,0
+Turning & Milling - Machine 9,1970-03-04 21:43:56.266658+00:00,23,0
+Packing,1970-03-16 03:41:27.054651+00:00,19,0
+Packing,1970-03-22 11:54:21.588685+00:00,18,0
+Laser Marking - Machine 7,1970-02-12 08:53:48.143080+00:00,15,0
+Turning & Milling Q.C.,1970-02-14 17:29:57.012933+00:00,20,0
+Turning & Milling - Machine 9,1970-02-15 04:46:00.081517+00:00,16,0
+Final Inspection Q.C.,1970-02-17 18:13:26.689643+00:00,18,0
+Final Inspection Q.C.,1970-02-21 09:35:39.068562+00:00,16,0
+Turning & Milling - Machine 9,1970-02-21 15:34:18.412216+00:00,15,0
+Packing,1970-02-23 06:22:47.720027+00:00,26,0
+Packing,1970-02-28 16:55:32.201005+00:00,21,0
+Turning & Milling - Machine 6,1970-02-28 21:19:08.883208+00:00,19,0
+Final Inspection Q.C.,1970-03-01 20:23:24.562211+00:00,21,0
+Lapping - Machine 1,1970-03-05 04:10:13.845530+00:00,23,0
+Turning & Milling - Machine 6,1970-03-05 07:46:55.083288+00:00,17,0
+Laser Marking - Machine 7,1970-03-06 15:17:56.529639+00:00,14,0
+Round Grinding - Machine 23,1970-03-13 14:37:12.677904+00:00,14,0
+Lapping - Machine 1,1970-03-14 17:12:42.352975+00:00,24,0
+SETUP     Turning & Milling - Machine 5,1970-02-10 14:40:20.714286+00:00,24,0
+Round Grinding - Machine 12,1970-02-12 22:56:46.038405+00:00,15,0
+Round Grinding - Machine 3,1970-02-13 00:05:03.756117+00:00,20,0
+Deburring - Manual,1970-02-22 05:18:42.934161+00:00,19,0
+Turning & Milling Q.C.,1970-02-24 10:33:40.293355+00:00,20,0
+Turning & Milling Q.C.,1970-02-24 19:00:22.528448+00:00,24,0
+Setup - Machine 8,1970-02-11 00:07:49.642857+00:00,24,0
+Turning & Milling - Machine 6,1970-02-11 05:38:57.537469+00:00,20,0
+Turning & Milling Q.C.,1970-02-11 14:08:02.022646+00:00,25,0
+Turning & Milling Q.C.,1970-02-12 15:31:09.132285+00:00,18,0
+Final Inspection Q.C.,1970-02-13 01:15:19.390344+00:00,23,0
+Final Inspection Q.C.,1970-02-22 13:59:00.456145+00:00,17,0
+Final Inspection Q.C.,1970-02-23 21:35:30.785030+00:00,22,0
+Final Inspection Q.C.,1970-02-27 05:17:40.229596+00:00,20,0
+Final Inspection Q.C.,1970-02-27 07:45:21.001412+00:00,26,0
+Turning & Milling - Machine 5,1970-02-11 15:54:47.752663+00:00,23,0
+Laser Marking - Machine 7,1970-02-17 10:01:12.294525+00:00,16,0
+Packing,1970-02-28 00:43:11.797922+00:00,17,0
+Turning & Milling - Machine 6,1970-02-28 03:51:00.330940+00:00,23,0
+Turning & Milling - Machine 5,1970-02-28 09:02:41.678109+00:00,17,0
+Turning & Milling - Machine 6,1970-03-02 08:19:11.654645+00:00,21,0
+Final Inspection Q.C.,1970-03-06 01:17:29.198252+00:00,24,0
+Final Inspection Q.C.,1970-03-09 02:48:30.654614+00:00,22,0
+Turning & Milling Q.C.,1970-03-10 15:01:43.782747+00:00,18,0
+Turning & Milling Q.C.,1970-03-13 21:37:59.242834+00:00,19,0
+Round Grinding - Machine 12,1970-03-16 04:50:21.833235+00:00,23,0
+Round Grinding - Machine 12,1970-03-16 13:32:17.817487+00:00,25,0
+Round Grinding - Machine 12,1970-03-17 22:58:10.050360+00:00,14,0
+Round Grinding - Machine 12,1970-03-18 03:47:51.457684+00:00,16,0
+Round Grinding - Machine 12,1970-03-18 04:26:31.338754+00:00,21,0
+Final Inspection Q.C.,1970-03-18 20:05:42.434648+00:00,18,0
+Turning & Milling - Machine 4,1970-03-19 05:31:09.037264+00:00,23,0
+Turning & Milling - Machine 4,1970-03-19 08:42:21.200306+00:00,19,0
+Turning & Milling - Machine 4,1970-03-20 03:49:35.624471+00:00,22,1
+Turning & Milling - Machine 10,1970-03-21 05:34:39.604873+00:00,17,0
+Turning & Milling - Machine 10,1970-03-22 19:45:26.228955+00:00,17,0
+Turning & Milling - Machine 4,1970-03-23 00:50:49.021962+00:00,20,0
+Packing,1970-03-24 11:51:06.564227+00:00,19,0
+Turning & Milling - Machine 4,1970-03-25 15:05:12.828947+00:00,23,0
+Turning & Milling Q.C.,1970-02-11 23:03:39.658532+00:00,23,0
+Turning & Milling - Machine 5,1970-02-12 00:11:45.005727+00:00,25,0
+Deburring - Manual,1970-02-21 16:12:42.361096+00:00,23,0
+Final Inspection Q.C.,1970-03-01 20:14:00.862686+00:00,24,0
+Final Inspection Q.C.,1970-03-02 16:13:56.102527+00:00,14,0
+Final Inspection Q.C.,1970-03-03 17:07:21.928703+00:00,21,0
+Round Grinding - Manual,1970-03-04 14:11:39.876204+00:00,15,0
+Round Grinding - Machine 2,1970-03-05 14:09:01.802700+00:00,23,0
+Round Grinding - Machine 2,1970-03-06 02:03:49.052891+00:00,20,0
+Round Grinding - Machine 2,1970-03-06 03:16:37.655931+00:00,22,0
+Turning & Milling - Machine 4,1970-03-06 08:26:00.246616+00:00,23,0
+Turning & Milling - Machine 4,1970-03-06 14:25:15.275187+00:00,17,0
+Turning & Milling Q.C.,1970-03-12 03:40:00.661589+00:00,19,0
+Turning & Milling - Machine 6,1970-02-12 09:59:03.478975+00:00,27,0
+Turning & Milling Q.C.,1970-02-14 17:14:25.685247+00:00,21,0
+Turn & Mill. & Screw Assem - Machine 10,1970-02-13 12:35:15.713659+00:00,21,0
+Turning & Milling - Machine 5,1970-02-13 13:01:04.436133+00:00,19,0
+Round Grinding - Machine 3,1970-02-14 20:25:53.076316+00:00,21,0
+Turning & Milling Q.C.,1970-02-27 23:31:05.404076+00:00,25,0
+Packing,1970-03-20 11:55:33.485203+00:00,21,0
+Laser Marking - Machine 7,1970-03-21 19:55:20.319472+00:00,23,0
+Turning & Milling Q.C.,1970-03-27 16:57:45.093218+00:00,22,0
+Round Grinding - Manual,1970-03-27 21:53:09.053332+00:00,17,0
+Round Grinding - Machine 2,1970-03-28 00:06:58.478785+00:00,15,0
+Round Grinding - Machine 2,1970-03-28 10:46:49.501610+00:00,20,0
+Turning & Milling - Machine 10,1970-03-28 12:17:39.305909+00:00,27,0
+Turning & Milling - Machine 6,1970-03-29 00:24:32.731162+00:00,19,0
+Lapping - Machine 1,1970-03-31 14:16:17.154504+00:00,12,0
+Lapping - Machine 1,1970-04-01 06:22:13.034562+00:00,17,0
+Turning & Milling Q.C.,1970-04-03 02:33:28.937118+00:00,19,0
+Lapping - Machine 1,1970-04-07 18:18:45.057888+00:00,26,0
+Turning & Milling Q.C.,1970-04-09 19:40:26.523289+00:00,18,0
+Lapping - Machine 1,1970-04-11 22:18:39.636069+00:00,21,0
+Turning & Milling Q.C.,1970-04-12 07:36:47.997031+00:00,20,0
+Turning & Milling - Machine 6,1970-02-14 00:05:01.046782+00:00,17,0
+Laser Marking - Machine 7,1970-02-16 05:50:35.842923+00:00,15,0
+Turning & Milling Q.C.,1970-02-16 21:35:42.481416+00:00,18,0
+Turning & Milling - Machine 4,1970-02-17 18:56:11.071869+00:00,18,0
+Turning & Milling - Machine 4,1970-02-17 22:38:02.403032+00:00,20,0
+Final Inspection Q.C.,1970-02-19 01:59:16.566348+00:00,17,0
+Final Inspection Q.C.,1970-02-23 17:49:52.101882+00:00,16,0
+Turning & Milling Q.C.,1970-02-25 18:46:55.713145+00:00,22,0
+Turning & Milling Q.C.,1970-02-26 05:22:10.206923+00:00,23,0
+Final Inspection Q.C.,1970-03-11 06:21:21.596180+00:00,22,0
+Final Inspection Q.C.,1970-03-16 03:41:03.971921+00:00,19,0
+Final Inspection Q.C.,1970-03-16 12:54:43.093910+00:00,20,0
+Turn & Mill. & Screw Assem - Machine 10,1970-03-17 03:23:38.341264+00:00,30,0
+Round Grinding - Machine 3,1970-03-17 06:24:44.965648+00:00,23,0
+Turning & Milling - Machine 10,1970-03-18 16:52:26.243705+00:00,18,0
+Turning & Milling - Machine 10,1970-03-22 21:12:17.242840+00:00,17,0
+Laser Marking - Machine 7,1970-03-27 07:12:54.644471+00:00,20,0
+Turning & Milling - Machine 10,1970-03-28 01:43:09.928868+00:00,16,0
+Turning & Milling - Machine 10,1970-03-28 17:06:07.107954+00:00,29,0
+Turning & Milling - Machine 10,1970-03-29 09:57:33.791486+00:00,20,0
+Round Grinding - Q.C.,1970-04-02 09:43:06.943187+00:00,23,0
+Round Grinding - Manual,1970-04-02 20:45:32.895716+00:00,25,0
+Round Grinding - Machine 2,1970-04-02 22:45:51.298666+00:00,25,0
+Round Grinding - Machine 2,1970-04-03 13:05:34.684525+00:00,25,0
+Turning & Milling - Machine 5,1970-04-04 18:17:29.948352+00:00,23,0
+Round Grinding - Machine 3,1970-04-05 03:17:43.955134+00:00,20,0
+Turning & Milling - Machine 8,1970-04-05 15:44:38.539627+00:00,22,0
+Grinding Rework - Machine 12,1970-04-14 05:17:23.695973+00:00,20,0
+Lapping - Machine 1,1970-04-15 12:00:24.483681+00:00,22,0
+Packing,1970-04-17 00:53:44.683469+00:00,15,0
+Flat Grinding - Machine 26,1970-02-14 13:15:10+00:00,15,0
+Turning & Milling Q.C.,1970-02-16 02:55:18.303587+00:00,22,0
+Turning & Milling - Machine 5,1970-02-16 04:55:33.536948+00:00,24,0
+Round Grinding - Machine 3,1970-02-16 04:58:34.558437+00:00,18,0
+Laser Marking - Machine 7,1970-02-16 16:21:23.927385+00:00,22,0
+Round Grinding - Machine 12,1970-02-17 10:41:30.377117+00:00,15,0
+Round Grinding - Machine 12,1970-02-18 00:01:10.769343+00:00,14,0
+Round Grinding - Machine 12,1970-02-19 06:45:10.175748+00:00,27,0
+Round Grinding - Machine 12,1970-02-21 09:12:12.546349+00:00,21,0
+Round Grinding - Machine 12,1970-02-24 05:58:11.466863+00:00,14,0
+Round Grinding - Machine 3,1970-02-24 22:41:22.133195+00:00,20,0
+Turning & Milling - Machine 5,1970-02-25 23:27:15.597786+00:00,20,0
+Turning & Milling - Machine 8,1970-02-26 04:10:46.495650+00:00,30,0
+Lapping - Machine 1,1970-02-28 17:12:55.362105+00:00,13,0
+Lapping - Machine 1,1970-03-15 11:50:42.842287+00:00,19,0
+Grinding Rework - Machine 27,1970-03-15 13:28:31.478396+00:00,24,0
+Lapping - Machine 1,1970-03-16 13:58:00.977942+00:00,13,0
+Lapping - Machine 1,1970-04-03 23:13:40.152039+00:00,14,0
+Laser Marking - Machine 7,1970-04-05 03:14:53.903720+00:00,15,0
+Lapping - Machine 1,1970-04-07 11:54:43.965818+00:00,22,0
+Packing,1970-04-14 02:58:03.979369+00:00,25,0
+Packing,1970-04-16 03:40:33.348960+00:00,21,0
+Lapping - Machine 1,1970-04-16 10:25:17.259395+00:00,21,0
+Round Grinding - Machine 3,1970-04-16 16:44:20.776505+00:00,23,0
+Turning & Milling - Machine 10,1970-04-20 07:01:06.957121+00:00,20,0
+Turning & Milling - Machine 8,1970-04-21 15:29:52.848138+00:00,26,0
+Turning - Machine 8,1970-04-21 18:02:43.713756+00:00,27,0
+Lapping - Machine 1,1970-04-24 08:10:14.116111+00:00,22,0
+Turning & Milling - Machine 6,1970-02-15 12:10:41.387229+00:00,19,0
+Laser Marking - Machine 7,1970-02-19 10:26:22.687758+00:00,24,0
+Turning & Milling - Machine 8,1970-02-20 01:16:49.179032+00:00,14,0
+Turning & Milling Q.C.,1970-02-25 16:35:36.008842+00:00,22,0
+Final Inspection Q.C.,1970-02-26 11:49:02.591468+00:00,15,0
+Final Inspection Q.C.,1970-02-28 11:47:02.254524+00:00,17,0
+Final Inspection Q.C.,1970-02-28 13:48:19.797798+00:00,19,0
+Turning & Milling - Machine 5,1970-03-01 08:42:53.909326+00:00,12,0
+Turning & Milling - Machine 6,1970-03-01 16:01:43.634479+00:00,16,0
+Flat Grinding - Machine 11,1970-03-01 23:09:58.289612+00:00,18,0
+Laser Marking - Machine 7,1970-03-02 11:14:26.966022+00:00,25,0
+Lapping - Machine 1,1970-03-04 02:48:13.400691+00:00,21,0
+Laser Marking - Machine 7,1970-03-10 00:41:41.051453+00:00,24,0
+Lapping - Machine 1,1970-03-15 00:08:53.543630+00:00,12,0
+Turning & Milling - Machine 8,1970-03-15 06:18:23.465063+00:00,19,0
+Final Inspection Q.C.,1970-03-15 08:18:00.802796+00:00,20,0
+Turning & Milling - Machine 9,1970-03-18 02:04:28.887725+00:00,21,0
+Turning & Milling - Machine 9,1970-03-18 23:09:47.570153+00:00,23,0
+Turning & Milling - Machine 9,1970-03-19 22:54:41.878293+00:00,23,0
+Stress Relief,1970-03-19 22:54:41.878293+00:00,15,0
+Turning & Milling - Machine 9,1970-03-20 04:33:00.262875+00:00,21,0
+Turning & Milling - Machine 9,1970-03-20 18:16:42.379232+00:00,29,0
+Packing,1970-03-26 09:21:46.188160+00:00,23,0
+Packing,1970-03-30 06:47:48.305961+00:00,22,0
+Turning & Milling - Machine 5,1970-03-30 15:04:21.113960+00:00,25,0
+Laser Marking - Machine 7,1970-04-01 07:43:45.135771+00:00,27,0
+Turning & Milling Q.C.,1970-02-16 15:12:52.765501+00:00,28,0
+Turning & Milling - Machine 6,1970-02-17 03:57:18.951238+00:00,16,0
+Final Inspection Q.C.,1970-02-21 14:13:17.863511+00:00,26,0
+Turning & Milling Q.C.,1970-02-21 14:48:05.548300+00:00,15,0
+Round Grinding - Machine 2,1970-02-21 17:15:24.085181+00:00,26,0
+Round Grinding - Machine 2,1970-02-21 20:03:12.524246+00:00,23,0
+Round Grinding - Machine 3,1970-02-22 01:12:40.603323+00:00,17,0
+Turning & Milling - Machine 5,1970-02-22 06:03:43.020886+00:00,22,0
+Round Grinding - Machine 2,1970-02-22 14:15:11.841635+00:00,13,0
+Round Grinding - Machine 2,1970-02-23 06:41:39.372691+00:00,19,0
+Turning & Milling - Machine 5,1970-02-23 20:02:15.375890+00:00,16,0
+Round Grinding - Machine 2,1970-02-24 04:18:03.222803+00:00,19,0
+Round Grinding - Machine 2,1970-02-24 05:26:02.505073+00:00,19,0
+Round Grinding - Machine 2,1970-02-25 00:44:59.934616+00:00,27,0
+Round Grinding - Machine 2,1970-02-26 14:10:45.472440+00:00,24,0
+Round Grinding - Machine 2,1970-02-28 04:11:52.829034+00:00,12,0
+Round Grinding - Machine 2,1970-02-28 06:09:34.111628+00:00,22,0
+Round Grinding - Machine 2,1970-02-28 16:42:35.854466+00:00,17,0
+Round Grinding - Machine 2,1970-02-28 16:57:32.209425+00:00,17,0
+Round Grinding - Machine 2,1970-03-01 22:54:35.770952+00:00,22,0
+Round Grinding - Machine 2,1970-03-03 03:22:01.554001+00:00,19,0
+Lapping - Machine 1,1970-03-05 19:49:25.779718+00:00,26,0
+Turning Q.C.,1970-03-06 21:58:02.864383+00:00,19,0
+Turning & Milling - Machine 5,1970-03-07 01:26:06.168336+00:00,22,0
+Final Inspection Q.C.,1970-03-08 10:13:40.135603+00:00,19,0
+Turning & Milling - Machine 6,1970-03-08 13:05:23.618148+00:00,14,0
+Turning Q.C.,1970-03-18 12:45:47.518896+00:00,31,0
+Lapping - Machine 1,1970-03-21 18:44:08.686551+00:00,16,0
+Packing,1970-03-24 09:49:23.169919+00:00,24,0
+Turning Q.C.,1970-04-06 14:09:58.967507+00:00,18,0
+Lapping - Machine 1,1970-04-08 01:20:18.480889+00:00,20,0
+Turning Q.C.,1970-04-10 21:11:07.409305+00:00,23,0
+Turning & Milling - Machine 8,1970-04-11 11:56:17.297834+00:00,13,0
+Turning Q.C.,1970-04-14 10:09:04.324266+00:00,21,0
+Turning & Milling - Machine 5,1970-04-16 19:56:33.495331+00:00,20,0
+Turning & Milling - Machine 8,1970-04-16 22:43:34.356730+00:00,18,0
+Turning & Milling - Machine 5,1970-04-17 00:15:05.367559+00:00,26,0
+Turning & Milling - Machine 6,1970-04-17 08:50:53.064965+00:00,20,0
+Turning & Milling - Machine 8,1970-04-17 21:22:56.490042+00:00,21,0
+Turning & Milling - Machine 5,1970-04-18 00:39:53.959706+00:00,21,0
+Stress Relief,1970-04-18 00:39:53.959706+00:00,14,0
+Turning & Milling - Machine 10,1970-04-18 08:28:05.439488+00:00,22,0
+Lapping - Machine 1,1970-04-18 16:53:04.406947+00:00,22,0
+Turning & Milling - Machine 10,1970-04-19 08:12:25.301319+00:00,22,0
+Turning & Milling - Machine 10,1970-04-19 12:16:11.015435+00:00,14,0
+Turning & Milling - Machine 10,1970-04-21 15:13:52.840435+00:00,16,0
+Turning & Milling - Machine 10,1970-04-23 00:03:59.855261+00:00,16,0
+Turning & Milling - Machine 10,1970-04-26 23:15:38.550292+00:00,15,0
+Turning & Milling - Machine 10,1970-04-27 11:09:20.052340+00:00,12,0
+Packing,1970-04-29 01:19:58.597295+00:00,25,0
+Turning & Milling - Machine 5,1970-02-16 09:18:36.108009+00:00,14,0
+Round Grinding - Machine 3,1970-02-16 16:32:15.026659+00:00,24,0
+Laser Marking - Machine 7,1970-02-18 02:46:52.839401+00:00,19,0
+Turning & Milling - Machine 5,1970-02-18 14:22:55.467689+00:00,22,0
+Round Grinding - Machine 3,1970-02-18 17:02:50.461719+00:00,19,0
+Flat Grinding - Machine 11,1970-02-18 17:32:09.509947+00:00,18,0
+Turning & Milling - Machine 5,1970-02-19 13:52:03.126975+00:00,24,0
+Final Inspection Q.C.,1970-02-19 23:24:27.747882+00:00,13,0
+Final Inspection Q.C.,1970-02-20 03:07:46.452959+00:00,16,0
+Final Inspection Q.C.,1970-02-20 04:27:51.272343+00:00,20,0
+Turning & Milling - Machine 8,1970-02-20 15:19:21.778326+00:00,18,0
+Turning Q.C.,1970-02-18 08:42:30.194312+00:00,26,0
+Turning & Milling - Machine 5,1970-02-18 14:26:39.499054+00:00,29,0
+Turning - Machine 8,1970-02-19 19:55:13.679576+00:00,22,0
+Round Grinding - Machine 3,1970-02-19 20:38:01.045284+00:00,15,0
+Turning & Milling - Machine 5,1970-02-19 22:12:44.253674+00:00,14,0
+Turning & Milling - Machine 6,1970-02-20 02:28:40.761769+00:00,22,0
+Lapping - Machine 1,1970-02-28 02:23:22.272805+00:00,16,0
+Turning - Machine 8,1970-02-28 09:43:39.119407+00:00,21,0
+Turning & Milling - Machine 6,1970-02-28 11:50:37.071483+00:00,24,0
+Packing,1970-03-05 08:43:45.548372+00:00,16,0
+Grinding Rework - Machine 12,1970-03-14 02:07:59.664414+00:00,18,0
+Lapping - Machine 1,1970-03-15 05:26:30.045117+00:00,16,0
+Lapping - Machine 1,1970-03-18 05:17:27.478026+00:00,21,0
+Turning & Milling - Machine 5,1970-02-17 10:17:56.235226+00:00,14,0
+Turning & Milling - Machine 5,1970-02-17 14:08:36.103054+00:00,27,0
+Turning & Milling - Machine 6,1970-02-18 00:40:23.519423+00:00,19,0
+Turning & Milling Q.C.,1970-02-28 03:18:53.969121+00:00,19,0
+Turning Q.C.,1970-03-06 21:42:24.507868+00:00,24,0
+Laser Marking - Machine 7,1970-03-08 02:42:51.015937+00:00,19,0
+Turning Q.C.,1970-03-08 14:33:15.217130+00:00,21,0
+Turning & Milling - Machine 9,1970-03-08 15:29:43.110781+00:00,21,0
+Packing,1970-03-12 11:58:43.840595+00:00,17,0
+Packing,1970-03-15 13:28:22.134429+00:00,17,0
+Turning & Milling - Machine 6,1970-02-17 12:07:25.361917+00:00,21,0
+Grinding Rework - Machine 27,1970-02-20 16:18:01.156566+00:00,18,0
+Lapping - Machine 1,1970-02-23 08:32:17.210812+00:00,26,0
+Turning & Milling - Machine 10,1970-02-23 21:29:26.521920+00:00,17,0
+Lapping - Machine 1,1970-02-25 20:35:37.627631+00:00,19,0
+Turning & Milling - Machine 10,1970-02-27 02:21:40.927147+00:00,18,0
+Packing,1970-03-14 08:57:16.231255+00:00,17,0
+Turning & Milling Q.C.,1970-03-19 23:39:23.436383+00:00,20,0
+Turning & Milling Q.C.,1970-03-24 08:29:03.045699+00:00,24,0
+Flat Grinding - Machine 11,1970-03-24 19:09:44.201868+00:00,15,0
+Flat Grinding - Machine 11,1970-03-27 03:10:04.529663+00:00,22,0
+Round Grinding - Q.C.,1970-03-27 03:40:47.103595+00:00,12,0
+Round Grinding - Q.C.,1970-03-28 00:38:01.434780+00:00,17,0
+Round Grinding - Q.C.,1970-03-28 01:35:39.560934+00:00,18,0
+Turning & Milling Q.C.,1970-02-19 01:33:05.857859+00:00,21,0
+Turning & Milling - Machine 5,1970-02-19 08:07:37.163385+00:00,14,0
+Turning & Milling Q.C.,1970-02-22 13:47:24.532864+00:00,24,0
+Turning & Milling - Machine 6,1970-02-23 15:06:26.087317+00:00,24,0
+Lapping - Machine 1,1970-03-01 07:50:21.276611+00:00,19,0
+Packing,1970-03-19 21:45:14.473563+00:00,22,0
+Lapping - Machine 1,1970-03-21 19:20:14.220581+00:00,14,0
+Turning & Milling - Machine 8,1970-03-22 12:06:14.532655+00:00,25,0
+Grinding Rework - Machine 12,1970-02-19 14:11:00.943486+00:00,21,0
+Turning & Milling - Machine 6,1970-02-19 15:52:44.427093+00:00,25,0
+Laser Marking - Machine 7,1970-02-20 23:30:46.939115+00:00,23,0
+Round Grinding - Manual,1970-02-21 10:19:37.255136+00:00,25,0
+Round Grinding - Machine 2,1970-02-21 13:56:34.940532+00:00,26,0
+Round Grinding - Machine 2,1970-02-21 18:24:19.983696+00:00,15,0
+Round Grinding - Machine 2,1970-02-23 00:41:53.454225+00:00,14,0
+Round Grinding - Machine 2,1970-02-23 11:24:12.315463+00:00,18,0
+Turning & Milling - Machine 5,1970-02-23 13:36:10.443315+00:00,15,0
+Final Inspection Q.C.,1970-02-23 19:50:13.062699+00:00,18,0
+Final Inspection Q.C.,1970-02-25 02:25:38.069810+00:00,16,0
+Final Inspection Q.C.,1970-02-25 08:28:22.215636+00:00,19,1
+Final Inspection Q.C.,1970-02-26 04:56:11.313211+00:00,22,0
+Turning & Milling Q.C.,1970-03-03 21:30:47.189610+00:00,25,0
+Round Grinding - Machine 3,1970-03-04 12:46:29.250160+00:00,18,0
+Final Inspection Q.C.,1970-03-06 10:20:49.148992+00:00,20,0
+Flat Grinding - Machine 11,1970-03-09 20:37:45.392168+00:00,24,0
+Flat Grinding - Machine 11,1970-03-12 02:39:20.503845+00:00,15,0
+Round Grinding - Machine 2,1970-03-12 07:54:22.500650+00:00,16,0
+Round Grinding - Machine 2,1970-03-12 09:13:39.878152+00:00,15,0
+Turning & Milling Q.C.,1970-02-21 07:32:39.653934+00:00,22,0
+Turning & Milling - Machine 6,1970-02-22 03:30:11.100744+00:00,26,0
+Turning & Milling Q.C.,1970-02-24 00:09:49.756136+00:00,20,0
+Turning & Milling Q.C.,1970-02-24 20:55:15.083361+00:00,18,0
+Turning & Milling Q.C.,1970-03-01 03:43:24.553693+00:00,14,0
+Turning & Milling Q.C.,1970-03-08 15:56:31.758179+00:00,12,0
+Turning & Milling Q.C.,1970-03-10 11:53:05.824911+00:00,22,0
+Packing,1970-03-14 04:17:09.532408+00:00,16,0
+Laser Marking - Machine 7,1970-03-14 16:13:42.364816+00:00,22,0
+Turning & Milling Q.C.,1970-03-20 22:55:28.851723+00:00,21,0
+Turning & Milling - Machine 6,1970-03-21 07:48:14.454823+00:00,19,0
+Turning & Milling - Machine 4,1970-03-21 08:00:18.964365+00:00,18,0
+Final Inspection Q.C.,1970-03-23 04:07:29.413029+00:00,18,0
+Final Inspection Q.C.,1970-03-23 20:19:06.682190+00:00,14,1
+Turning & Milling - Machine 8,1970-03-24 11:42:32.851477+00:00,18,0
+Turning & Milling - Machine 6,1970-03-24 12:12:05.751708+00:00,17,0
+Final Inspection Q.C.,1970-03-27 18:29:57.903928+00:00,22,0
+Final Inspection Q.C.,1970-03-30 00:12:53.299642+00:00,24,0
+Turning & Milling - Machine 6,1970-03-30 01:18:34.019976+00:00,17,0
+Laser Marking - Machine 7,1970-03-30 11:53:05.872125+00:00,12,0
+Packing,1970-04-05 10:27:37.125747+00:00,16,0
+Flat Grinding - Machine 11,1970-04-07 02:41:58.029415+00:00,26,0
+Lapping - Machine 1,1970-04-09 00:41:10.083797+00:00,26,0
+Lapping - Machine 1,1970-04-11 06:45:59.583979+00:00,17,0
+Round Grinding - Machine 3,1970-04-15 09:58:54.936026+00:00,20,0
+Turning & Milling Q.C.,1970-02-21 18:16:11.754152+00:00,18,0
+Turning - Machine 8,1970-02-22 02:42:35.853835+00:00,24,0
+Laser Marking - Machine 7,1970-02-28 15:41:51.279798+00:00,20,0
+Round Grinding - Q.C.,1970-03-01 22:12:48.486362+00:00,21,0
+Round Grinding - Q.C.,1970-03-02 21:45:44.209432+00:00,21,0
+Final Inspection Q.C.,1970-03-06 12:05:54.151390+00:00,24,0
+Turning & Milling Q.C.,1970-03-06 19:04:39.222903+00:00,18,0
+Grinding Rework - Machine 27,1970-03-06 23:50:38.607321+00:00,23,0
+Final Inspection Q.C.,1970-03-06 23:57:39.591770+00:00,25,0
+Round Grinding - Manual,1970-03-07 04:13:10.111990+00:00,24,0
+Turning & Milling - Machine 5,1970-02-19 20:32:05.798188+00:00,18,0
+Final Inspection Q.C.,1970-02-21 17:48:32.107180+00:00,22,0
+Final Inspection Q.C.,1970-02-21 22:29:52.555394+00:00,24,0
+Turning & Milling - Machine 8,1970-02-22 02:12:15.047428+00:00,30,0
+Turning - Machine 8,1970-02-22 22:29:28.208292+00:00,13,0
+Round Grinding - Machine 3,1970-02-23 08:03:53.358190+00:00,26,0
+Turning & Milling - Machine 6,1970-02-25 05:09:48.954159+00:00,20,0
+Flat Grinding - Machine 11,1970-03-01 04:14:57.753667+00:00,17,0
+Packing,1970-03-03 02:02:38.544816+00:00,12,0
+Turning & Milling - Machine 8,1970-03-03 09:54:10.652598+00:00,18,0
+Round Grinding - Machine 3,1970-03-03 10:58:48.972346+00:00,17,0
+Lapping - Machine 1,1970-03-10 19:14:42.663890+00:00,27,0
+Lapping - Machine 1,1970-03-14 13:45:25.758437+00:00,23,0
+Packing,1970-03-20 02:51:36.339375+00:00,23,0
+Turning & Milling - Machine 6,1970-03-20 06:58:36.450652+00:00,25,0
+Grinding Rework - Machine 27,1970-04-05 04:24:43.611737+00:00,17,0
+Laser Marking - Machine 7,1970-04-15 03:34:07.811198+00:00,29,0
+Packing,1970-04-17 14:49:41.260096+00:00,27,0
+Turning & Milling - Machine 6,1970-04-17 15:22:36.473822+00:00,20,0
+Laser Marking - Machine 7,1970-04-20 11:28:12.869179+00:00,16,0
+Lapping - Machine 1,1970-04-21 10:21:27.418139+00:00,19,0
+Round Grinding - Machine 3,1970-04-21 21:56:39.922067+00:00,18,0
+Laser Marking - Machine 7,1970-04-27 16:30:15.702938+00:00,25,0
+Turning & Milling - Machine 9,1970-04-28 07:05:20.724227+00:00,22,0
+Turning & Milling - Machine 9,1970-04-28 07:16:31.100974+00:00,20,0
+Packing,1970-05-07 10:41:12.261802+00:00,21,0
+Round Grinding - Machine 2,1970-05-07 21:28:26.129945+00:00,21,0
+Round Grinding - Machine 2,1970-05-09 12:25:17.970793+00:00,20,0
+Turning & Milling - Machine 5,1970-02-20 03:38:46.695905+00:00,23,0
+Round Grinding - Machine 3,1970-02-21 13:38:21.205000+00:00,17,0
+Turning & Milling Q.C.,1970-02-22 19:29:29.568682+00:00,24,0
+Turning & Milling - Machine 8,1970-02-23 02:19:55.475087+00:00,19,0
+Turning & Milling Q.C.,1970-02-25 01:03:46.495167+00:00,16,0
+Turning & Milling Q.C.,1970-02-20 16:22:48.264416+00:00,22,0
+Turning & Milling Q.C.,1970-02-21 02:44:17.277444+00:00,17,0
+Turning & Milling Q.C.,1970-02-21 02:52:35.436046+00:00,15,0
+Turning & Milling Q.C.,1970-02-24 19:54:56.705439+00:00,19,0
+Turning & Milling Q.C.,1970-02-26 08:45:01.285252+00:00,19,0
+Turning & Milling Q.C.,1970-03-03 01:45:25.325688+00:00,28,1
+Turning & Milling Q.C.,1970-03-08 05:58:40.471323+00:00,17,0
+Turning & Milling Q.C.,1970-03-17 20:00:29.962096+00:00,21,0
+Turning & Milling Q.C.,1970-03-21 16:32:33.313255+00:00,23,0
+Turning & Milling Q.C.,1970-03-24 16:01:26.951937+00:00,13,0
+Turning & Milling Q.C.,1970-03-28 00:23:31.962696+00:00,19,0
+Turning & Milling Q.C.,1970-03-30 09:17:03.582936+00:00,34,0
+Turning & Milling - Machine 6,1970-02-21 20:20:41.552578+00:00,18,0
+Packing,1970-02-21 20:33:08.336848+00:00,25,0
+Round Grinding - Q.C.,1970-02-23 10:02:00.130840+00:00,22,0
+Packing,1970-02-24 20:37:54.853377+00:00,20,0
+Lapping - Machine 1,1970-02-28 08:26:20.075323+00:00,21,0
+Turning & Milling - Machine 8,1970-03-01 09:05:49.336889+00:00,20,0
+Turning & Milling - Machine 5,1970-03-02 02:55:37.652187+00:00,22,0
+Round Grinding - Machine 12,1970-03-02 04:18:22.034590+00:00,22,0
+Final Inspection Q.C.,1970-03-03 05:58:55.131328+00:00,27,0
+Round Grinding - Machine 12,1970-03-03 19:34:16.277118+00:00,23,0
+Round Grinding - Machine 3,1970-03-04 18:41:49.521007+00:00,22,0
+Packing,1970-03-12 06:37:16.048946+00:00,20,0
+Laser Marking - Machine 7,1970-03-12 10:42:23.938853+00:00,26,0
+Packing,1970-03-16 17:10:18.955834+00:00,20,0
+Round Grinding - Machine 2,1970-03-18 00:13:18.501302+00:00,20,0
+Round Grinding - Machine 2,1970-03-18 04:09:53.241601+00:00,22,0
+Round Grinding - Machine 3,1970-03-18 13:31:50.539380+00:00,22,0
+Turning & Milling - Machine 6,1970-03-18 13:54:49.361276+00:00,17,0
+Round Grinding - Machine 12,1970-03-19 08:24:34.236192+00:00,21,0
+Round Grinding - Machine 3,1970-03-20 22:08:38.707271+00:00,14,0
+Laser Marking - Machine 7,1970-03-22 05:39:38.689141+00:00,22,0
+Final Inspection Q.C.,1970-03-26 00:48:32.611388+00:00,28,0
+Final Inspection Q.C.,1970-03-26 05:03:33.393507+00:00,19,0
+Packing,1970-03-26 21:52:09.602070+00:00,17,0

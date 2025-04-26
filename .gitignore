@@ -1,0 +1,29 @@
+# Ignore o ambiente virtual
+venv/
+
+# Ignore arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore logs temporários ou arquivos de saída
+*.log
+*.out
+
+# Ignore Jupyter Notebooks checkpoints
+.ipynb_checkpoints/
+
+# Ignore arquivos de sistema (Windows, Mac)
+.DS_Store
+Thumbs.db
+
+# Ignore pacotes e distribuições
+build/
+dist/
+*.egg-info/
+
+# Ignore configurações locais do VSCode
+.vscode/
+
+# Ignore arquivos de ambiente
+.env
